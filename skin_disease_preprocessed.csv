@@ -1,0 +1,1101 @@
+age,itching,skin_rash,nodal_skin_eruptions,burning_sensation,swelling,redness,pus_presence,scaly_skin,blisters,pain,age_group,weather,sun_exposure,recent_travel_or_flood,drinking_water_source,bathing_water_source,diet_dairy_intake,diet_high_sugar,diet_oily_spicy_frequency,hygiene_level,hydration_glasses_per_day,weather_risk,sun_exposure_risk,recent_travel_flood_risk,drinking_water_risk,diet_dairy_risk,diet_sugar_risk,diet_oily_spicy_risk,hygiene_risk,hydration_risk,disease
+1,1,1,1,0,0,1,0,0,1,0,1,Hot/Dry,Morning,1,Tap,Tap,Medium,0,Often,Average,4,0,0,1,1,0,0,0,0,1,Fungal infection
+1,0,0,0,0,1,0,0,1,1,0,1,Cold,,0,Bottled,Filtered (RO),High,0,Often,Good,9,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,0,1,0,1,0,0,0,1,Rainy/Flooded,,0,Filtered (RO),Tap,High,0,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,0,0,0,1,1,1,0,1,Humid,,0,Tap,Tap,Medium,1,Occasionally,Poor,3,0,0,0,0,0,0,0,0,1,Allergy
+1,0,1,1,1,1,0,0,0,1,0,1,Hot/Dry,,0,Tap,Bottled,Medium,0,Never,Average,12,0,0,0,0,0,0,0,0,0,Acne
+1,1,1,1,1,1,0,0,0,1,0,1,Hot/Dry,Morning,1,Tap,Filtered (RO),High,0,Never,Poor,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,1,0,1,0,0,0,1,1,Hot/Dry,Noon,0,Tap,Bottled,Medium,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,1,1,1,0,1,0,0,1,1,0,0,Rainy/Flooded,Afternoon,1,Tap,Tap,Medium,0,Often,Average,9,0,0,0,0,0,0,1,0,0,Acne
+1,1,0,1,1,0,0,0,1,1,1,1,Humid,Afternoon,0,Tap,Tap,High,1,Occasionally,Good,6,0,0,0,1,0,0,0,0,0,Eczema
+1,0,0,1,0,1,0,1,1,1,0,1,Rainy/Flooded,Morning,1,Tap,Filtered (RO),Medium,0,Often,Good,3,1,0,1,1,0,0,0,0,1,Fungal infection
+1,0,1,1,1,1,1,1,0,0,0,1,Hot/Dry,Afternoon,0,Boiled,Tap,High,1,Never,Good,10,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,1,0,0,1,0,0,1,1,Cold,Morning,0,Filtered (RO),Tap,Low,1,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Fungal infection
+1,1,1,0,1,1,1,0,0,1,1,1,Rainy/Flooded,Morning,0,Boiled,Filtered (RO),Low,0,Occasionally,Poor,6,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,0,1,1,0,1,1,0,0,Hot/Dry,Noon,1,Tap,Filtered (RO),Medium,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,0,1,1,0,0,0,0,0,0,0,Hot/Dry,Noon,0,Tap,Tap,High,0,Never,Average,14,0,0,0,0,0,0,0,0,0,Impetigo
+0,1,0,1,0,1,1,0,1,1,1,0,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,1,Often,Average,4,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,0,1,0,0,1,1,0,0,0,1,Hot/Dry,Morning,0,Tap,Tap,Low,0,Occasionally,Average,8,0,0,0,1,0,0,0,1,0,Eczema
+1,1,0,0,0,1,1,1,0,0,1,1,Humid,,0,Tap,Tap,Medium,0,Often,Average,7,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,0,1,0,0,1,0,1,0,1,Humid,Noon,1,Boiled,Tap,High,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,0,0,1,0,1,0,0,0,0,Hot/Dry,Morning,0,Boiled,Tap,Medium,1,Often,Average,6,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,0,0,0,0,0,1,1,1,Humid,,0,Filtered (RO),Tap,Low,0,Occasionally,Good,8,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,0,1,1,1,1,0,1,1,Hot/Dry,,0,Tap,Bottled,Medium,0,Often,Poor,3,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,1,0,1,1,1,0,0,0,0,1,Hot/Dry,,0,Boiled,Filtered (RO),Medium,0,Never,Good,14,0,0,0,0,0,0,0,0,0,Impetigo
+0,0,1,0,1,0,0,0,1,1,1,0,Hot/Dry,Afternoon,0,Filtered (RO),Boiled,Medium,0,Often,Good,9,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,0,0,0,0,0,1,1,0,1,1,Humid,Afternoon,0,Boiled,Tap,Medium,1,Often,Poor,10,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,0,0,0,1,0,0,0,1,Rainy/Flooded,Noon,0,Boiled,Tap,High,0,Never,Average,2,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,1,1,1,1,0,1,1,0,0,1,Hot/Dry,Morning,0,Boiled,Tap,Medium,1,Never,Average,14,0,0,0,0,0,0,0,0,0,Chickenpox
+0,0,1,0,1,0,1,1,1,1,0,0,Humid,Noon,0,Filtered (RO),Tap,High,1,Occasionally,Average,6,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,1,0,0,1,1,0,1,1,Humid,Noon,0,Tap,Tap,Medium,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,0,1,1,0,1,1,0,1,1,Hot/Dry,Noon,0,Filtered (RO),Boiled,High,1,Occasionally,Good,1,0,0,0,0,1,1,0,0,1,Acne
+0,1,0,1,0,1,1,0,0,1,0,0,Humid,Afternoon,0,Filtered (RO),Filtered (RO),Medium,0,Occasionally,Average,12,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,1,1,0,1,0,1,0,1,Hot/Dry,Noon,0,Boiled,Filtered (RO),High,0,Never,Average,11,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,0,0,0,1,1,0,0,1,1,Hot/Dry,Morning,1,Tap,Tap,Medium,1,Never,Average,2,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,0,1,0,1,0,1,0,1,1,Cold,Morning,1,Tap,Bottled,Medium,0,Often,Average,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,1,1,1,1,0,0,1,0,1,Cold,Afternoon,0,Boiled,Tap,High,1,Never,Poor,5,0,0,0,0,0,0,0,1,0,Eczema
+1,0,0,0,0,1,0,1,0,1,1,0,Rainy/Flooded,Morning,0,Boiled,Tap,High,0,Occasionally,Good,1,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,0,0,1,1,0,0,1,0,0,1,Hot/Dry,,1,Bottled,Tap,High,1,Often,Average,8,0,0,0,0,1,1,1,0,0,Acne
+1,0,0,0,0,1,1,1,1,1,1,0,Hot/Dry,Noon,0,Boiled,Boiled,Low,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Dermatitis
+1,0,0,1,1,1,0,0,0,0,1,0,Humid,Noon,0,Filtered (RO),Bottled,Medium,0,Occasionally,Poor,13,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,0,0,1,0,0,0,0,1,Humid,Noon,0,Filtered (RO),Tap,Medium,0,Never,Good,9,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,0,0,1,1,0,0,1,1,Hot/Dry,Afternoon,0,Boiled,Boiled,High,1,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Allergy
+0,0,0,1,0,0,0,0,0,1,0,0,Humid,Noon,0,Filtered (RO),Boiled,Medium,1,Never,Poor,11,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,0,1,0,1,1,1,0,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Low,0,Often,Good,3,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,0,0,1,1,1,1,0,0,1,Cold,Noon,1,Tap,Tap,Low,1,Occasionally,Poor,12,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,0,1,0,1,1,1,0,1,0,1,0,Hot/Dry,Noon,1,Tap,Tap,Medium,0,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,1,0,1,0,1,1,1,0,1,1,Humid,,0,Boiled,Bottled,High,0,Occasionally,Average,1,1,0,0,0,0,0,0,0,1,Fungal infection
+1,1,1,0,1,1,0,1,0,1,0,1,Hot/Dry,Afternoon,0,Tap,Tap,High,1,Never,Poor,9,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,1,1,0,1,1,0,0,0,1,Humid,Afternoon,0,Tap,Boiled,High,1,Often,Average,4,0,0,0,1,0,0,0,1,1,Eczema
+1,0,1,1,1,1,1,1,0,1,1,1,Humid,,0,Tap,Tap,High,1,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Allergy
+1,1,0,0,1,0,0,1,1,1,0,0,Hot/Dry,,0,Tap,Boiled,High,1,Occasionally,Good,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,1,0,0,0,1,1,1,1,1,1,Cold,Afternoon,0,Tap,Tap,High,0,Never,Poor,1,0,0,0,0,1,0,0,0,1,Acne
+1,0,0,0,0,0,0,1,1,0,1,1,Rainy/Flooded,Afternoon,1,Tap,Filtered (RO),Medium,1,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,1,1,0,1,0,0,0,0,1,Cold,Afternoon,0,Bottled,Boiled,Low,0,Never,Good,2,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,0,1,0,1,0,1,0,1,0,0,1,Rainy/Flooded,Afternoon,0,Filtered (RO),Boiled,Medium,0,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,1,1,1,1,0,0,0,1,1,Humid,Afternoon,1,Tap,Boiled,Low,0,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Dermatitis
+0,1,1,0,1,0,1,1,1,0,1,0,Cold,Afternoon,0,Tap,Tap,Medium,0,Often,Good,7,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,1,1,1,0,1,0,1,1,1,Hot/Dry,Morning,0,Filtered (RO),Filtered (RO),High,0,Occasionally,Good,10,0,0,0,0,0,0,0,0,0,Fungal infection
+0,1,0,1,0,0,1,0,1,0,0,0,Hot/Dry,,0,Tap,Tap,Medium,0,Often,Good,14,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,0,1,0,1,0,1,1,0,0,1,Hot/Dry,,0,Boiled,Tap,High,0,Often,Average,9,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,0,0,0,0,0,0,0,1,Hot/Dry,Morning,0,Filtered (RO),Filtered (RO),Medium,0,Never,Average,13,0,0,0,0,0,0,0,1,0,Eczema
+1,1,0,0,0,0,0,1,1,0,1,1,Hot/Dry,Afternoon,0,Boiled,Tap,Medium,0,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,1,1,1,1,1,0,0,0,1,Hot/Dry,Morning,0,Tap,Filtered (RO),Low,0,Never,Poor,13,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,0,1,1,0,0,0,0,1,Rainy/Flooded,Noon,1,Filtered (RO),Bottled,High,0,Occasionally,Poor,14,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,0,0,0,0,0,1,0,0,Hot/Dry,Afternoon,0,Tap,Tap,High,1,Often,Average,1,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,0,1,0,0,0,1,1,0,0,1,Hot/Dry,Morning,0,Bottled,Filtered (RO),Low,1,Occasionally,Good,12,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,1,0,1,1,1,0,1,1,Humid,Afternoon,0,Filtered (RO),Tap,High,1,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,1,1,0,0,1,1,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Average,8,0,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,0,0,0,1,1,1,0,1,1,Rainy/Flooded,Noon,0,Tap,Tap,Medium,1,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,1,0,1,0,0,0,1,0,1,Hot/Dry,Morning,0,Tap,Bottled,Low,0,Never,Average,4,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,0,0,0,1,1,1,1,1,0,1,Cold,Noon,0,Filtered (RO),Boiled,Low,0,Often,Average,13,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,1,1,0,1,1,1,1,1,Rainy/Flooded,Afternoon,0,Tap,Bottled,Low,0,Occasionally,Poor,8,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,0,0,1,1,0,0,0,1,Hot/Dry,,0,Filtered (RO),Bottled,High,1,Often,Good,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,0,0,1,0,0,0,0,0,0,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Low,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,1,0,1,1,1,1,1,1,1,Rainy/Flooded,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Good,5,0,0,0,0,0,0,0,0,0,Allergy
+0,0,0,1,0,1,0,0,0,1,0,0,Rainy/Flooded,Afternoon,1,Boiled,Filtered (RO),Medium,0,Occasionally,Poor,4,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,1,0,1,0,0,1,1,0,1,Rainy/Flooded,Noon,0,Boiled,Tap,High,1,Never,Good,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,0,1,1,1,1,1,0,0,0,1,Rainy/Flooded,Afternoon,0,Boiled,Tap,Medium,1,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Eczema
+1,1,0,0,1,1,1,0,0,1,0,1,Hot/Dry,Morning,0,Tap,Tap,Low,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,0,1,0,1,0,0,1,1,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Low,0,Often,Average,2,0,0,0,1,0,0,0,0,1,Fungal infection
+1,1,1,0,1,1,1,1,1,0,1,0,Hot/Dry,Noon,0,Filtered (RO),Filtered (RO),Medium,0,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,0,0,0,1,1,0,0,1,1,Rainy/Flooded,,0,Tap,Tap,High,1,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,1,1,0,0,0,1,0,1,Humid,Noon,0,Tap,Tap,Medium,0,Never,Average,14,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,0,1,0,1,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Low,1,Often,Good,10,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,1,0,1,1,0,1,1,0,1,1,Hot/Dry,,0,Tap,Filtered (RO),Medium,0,Never,Average,3,0,0,0,0,0,0,0,0,1,Impetigo
+0,1,0,0,1,1,1,1,0,1,1,0,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Often,Poor,10,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,0,1,0,0,0,0,0,1,1,Hot/Dry,,0,Boiled,Boiled,High,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,0,0,0,1,0,1,0,0,1,1,1,Rainy/Flooded,Afternoon,1,Tap,Tap,Medium,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Impetigo
+0,1,0,1,1,1,1,1,0,1,0,0,Humid,Morning,0,Filtered (RO),Tap,Medium,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,0,0,0,0,1,0,1,1,1,Rainy/Flooded,Noon,0,Tap,Boiled,Low,0,Never,Average,8,1,0,0,1,0,0,0,0,0,Fungal infection
+1,1,0,0,0,1,0,0,1,0,1,1,Humid,Afternoon,0,Filtered (RO),Filtered (RO),Medium,0,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Acne
+1,0,0,0,0,0,1,0,0,0,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Chickenpox
+0,0,0,0,1,1,0,1,0,1,0,0,Rainy/Flooded,Noon,0,Boiled,Filtered (RO),Medium,0,Occasionally,Poor,10,0,0,0,0,0,0,0,0,0,Acne
+0,0,1,0,1,0,0,0,0,1,0,0,Rainy/Flooded,Noon,0,Boiled,Filtered (RO),High,1,Occasionally,Poor,10,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,0,0,1,1,0,1,1,1,1,Humid,Afternoon,0,Tap,Boiled,Low,1,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,1,1,1,0,0,1,1,1,1,Rainy/Flooded,Morning,0,Bottled,Boiled,Medium,0,Often,Good,7,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,1,0,1,1,0,0,0,0,Humid,,0,Bottled,Filtered (RO),Medium,1,Never,Good,5,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,0,0,0,0,0,0,1,1,Humid,,0,Boiled,Tap,Medium,1,Often,Average,9,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,0,0,1,1,1,0,1,1,Humid,,0,Boiled,Tap,Medium,0,Never,Average,4,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,0,1,0,0,1,1,0,1,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,1,Occasionally,Good,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,1,1,0,1,0,0,1,1,1,Hot/Dry,Morning,0,Filtered (RO),Tap,Medium,0,Occasionally,Poor,13,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,1,0,1,0,0,0,0,1,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),High,0,Never,Average,2,0,0,0,0,1,0,0,0,1,Acne
+1,1,0,0,1,0,1,0,1,0,0,1,Humid,Morning,0,Tap,Filtered (RO),Medium,1,Never,Poor,1,0,0,0,1,0,0,0,1,1,Eczema
+1,0,1,1,1,0,0,0,0,0,0,1,Hot/Dry,Morning,0,Bottled,Tap,High,0,Often,Average,11,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,0,1,0,0,1,0,0,1,Humid,Noon,0,Tap,Tap,Medium,0,Occasionally,Average,6,0,0,0,1,0,0,0,1,0,Eczema
+1,0,0,0,1,1,0,0,1,1,1,1,Cold,Noon,1,Boiled,Tap,High,0,Never,Average,10,0,0,0,0,0,0,0,0,0,Impetigo
+0,0,1,1,0,0,1,0,1,1,0,0,Hot/Dry,Afternoon,0,Boiled,Tap,Medium,1,Never,Average,2,0,1,0,0,0,0,0,0,1,Melanoma
+1,0,1,0,0,0,0,0,0,0,1,1,Humid,Afternoon,0,Boiled,Boiled,Low,1,Often,Average,8,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,0,1,0,1,0,1,0,0,1,Rainy/Flooded,Noon,0,Bottled,Tap,Low,0,Often,Average,6,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,0,1,1,0,1,0,1,0,1,Hot/Dry,Noon,0,Tap,Filtered (RO),Medium,1,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,0,1,1,0,0,1,1,1,1,Hot/Dry,,0,Tap,Bottled,Medium,1,Never,Poor,12,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,0,1,1,1,1,0,0,0,Hot/Dry,Noon,0,Tap,Tap,High,0,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,1,0,1,1,0,0,1,0,1,Hot/Dry,Noon,1,Tap,Tap,Medium,0,Never,Average,13,0,0,0,0,0,0,0,0,0,Acne
+1,0,1,1,1,1,1,0,1,1,1,1,Cold,Morning,0,Tap,Tap,Low,1,Never,Poor,2,0,0,0,0,0,0,0,0,1,Psoriasis
+0,0,1,1,0,1,1,1,0,0,1,0,Rainy/Flooded,Afternoon,0,Tap,Filtered (RO),High,1,Occasionally,Good,7,0,0,0,0,1,1,0,0,0,Acne
+1,1,1,0,0,0,0,0,0,1,0,1,Humid,Afternoon,1,Boiled,Filtered (RO),Medium,1,Occasionally,Good,2,0,0,1,0,0,0,0,0,1,Eczema
+1,1,0,1,0,1,1,1,0,0,0,1,Rainy/Flooded,Morning,0,Filtered (RO),Tap,Low,0,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,0,0,1,0,0,0,0,1,Rainy/Flooded,Morning,0,Tap,Filtered (RO),Low,0,Occasionally,Average,14,1,0,0,1,0,0,0,0,0,Fungal infection
+0,1,0,0,1,1,0,0,0,0,1,0,Hot/Dry,Afternoon,0,Filtered (RO),Boiled,High,0,Often,Poor,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,0,0,1,0,1,1,1,1,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,0,Often,Average,2,0,0,0,1,0,0,0,1,1,Eczema
+1,1,1,1,0,1,1,0,1,0,1,1,Humid,Noon,0,Tap,Tap,High,0,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,0,1,0,1,1,1,1,1,1,Rainy/Flooded,,1,Boiled,Boiled,High,1,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,0,1,1,0,1,0,0,1,1,Rainy/Flooded,Morning,0,Filtered (RO),Filtered (RO),Low,0,Occasionally,Good,11,1,0,0,0,0,0,0,0,0,Fungal infection
+1,1,0,1,0,0,1,0,1,1,0,1,Hot/Dry,Noon,0,Boiled,Boiled,Low,1,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,1,0,1,0,0,0,1,0,Hot/Dry,,0,Tap,Filtered (RO),Medium,0,Often,Poor,2,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,0,1,0,1,1,0,1,0,0,0,1,Hot/Dry,Noon,0,Boiled,Boiled,High,0,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,0,0,1,0,0,1,1,0,1,Humid,Afternoon,1,Filtered (RO),Tap,Low,0,Often,Average,9,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,0,1,0,0,1,0,0,1,Rainy/Flooded,Noon,0,Filtered (RO),Boiled,Medium,0,Often,Average,5,0,0,0,0,0,0,0,1,0,Eczema
+1,0,1,0,0,1,1,0,0,1,0,1,Rainy/Flooded,Noon,0,Filtered (RO),Bottled,Medium,0,Occasionally,Good,7,1,0,0,0,0,0,0,0,0,Fungal infection
+1,0,1,0,0,1,0,0,0,1,0,1,Hot/Dry,,0,Boiled,Filtered (RO),Medium,1,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,1,0,1,0,0,0,1,0,0,1,Humid,Noon,0,Filtered (RO),Tap,High,1,Never,Poor,2,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,1,1,0,0,0,0,1,1,1,0,Humid,,0,Filtered (RO),Tap,Medium,0,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,1,1,0,0,0,0,0,0,1,Hot/Dry,Morning,0,Bottled,Tap,Medium,0,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Eczema
+0,1,0,1,0,1,1,0,0,0,0,0,Hot/Dry,Morning,0,Boiled,Tap,High,1,Occasionally,Good,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,1,1,1,0,0,0,0,1,Hot/Dry,Morning,0,Tap,Tap,High,0,Often,Average,6,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,1,0,1,1,0,0,0,0,1,Cold,Afternoon,0,Boiled,Filtered (RO),High,0,Never,Average,7,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,1,1,1,1,1,1,0,0,1,Hot/Dry,Noon,0,Tap,Filtered (RO),High,0,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Dermatitis
+0,0,1,1,1,0,0,0,1,1,1,0,Humid,,0,Tap,Tap,Medium,1,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,0,0,0,0,0,0,0,1,1,Rainy/Flooded,Noon,0,Filtered (RO),Filtered (RO),Low,0,Occasionally,Poor,8,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,0,0,0,1,0,0,1,1,1,Hot/Dry,,0,Bottled,Tap,High,0,Occasionally,Average,4,0,0,0,0,0,0,0,1,1,Eczema
+0,1,1,0,0,1,0,1,1,1,0,0,Cold,Morning,0,Bottled,Tap,High,1,Often,Average,7,0,0,0,0,0,0,0,0,0,Fungal infection
+1,1,0,0,0,1,0,1,0,0,0,1,Cold,,0,Tap,Tap,Medium,0,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,1,0,0,1,1,1,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Filtered (RO),Low,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,1,0,1,0,1,0,1,1,0,Humid,Afternoon,0,Tap,Tap,Medium,0,Never,Poor,7,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,0,1,0,0,0,0,1,1,Hot/Dry,Afternoon,0,Bottled,Tap,Medium,1,Occasionally,Poor,1,0,0,0,0,0,0,0,0,1,Fungal infection
+1,1,1,1,0,0,0,1,1,1,1,1,Hot/Dry,Afternoon,1,Bottled,Tap,Medium,0,Often,Average,3,0,0,0,0,0,0,0,0,1,Allergy
+0,0,1,1,0,0,1,1,0,1,0,0,Hot/Dry,Afternoon,0,Filtered (RO),Boiled,High,1,Occasionally,Poor,6,0,1,0,0,0,0,0,0,0,Melanoma
+0,0,1,0,1,1,1,1,0,1,1,0,Humid,Morning,0,Boiled,Tap,High,1,Often,Average,3,0,0,0,0,0,0,0,0,1,Melanoma
+1,0,1,1,1,1,0,0,1,0,0,0,Humid,Morning,0,Boiled,Filtered (RO),Medium,0,Occasionally,Poor,14,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,0,1,1,0,1,0,1,1,Hot/Dry,,0,Filtered (RO),Filtered (RO),Medium,1,Never,Good,14,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,0,1,0,1,1,0,0,0,1,1,Hot/Dry,Afternoon,0,Tap,Boiled,Medium,0,Never,Average,7,0,0,0,0,0,0,0,0,0,Dermatitis
+0,0,0,0,0,1,1,1,1,1,1,0,Cold,Afternoon,0,Tap,Bottled,Medium,0,Occasionally,Good,9,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,0,0,0,1,1,1,0,1,Hot/Dry,Noon,1,Filtered (RO),Tap,Medium,0,Occasionally,Poor,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,1,1,1,1,0,0,1,0,1,Hot/Dry,Morning,0,Filtered (RO),Tap,High,0,Often,Good,14,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,1,0,1,0,0,0,0,1,Humid,Morning,1,Tap,Boiled,Medium,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,0,1,1,0,0,1,0,1,0,1,Cold,Afternoon,0,Bottled,Tap,High,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Allergy
+1,1,0,0,1,1,1,0,0,0,0,1,Hot/Dry,Noon,0,Tap,Filtered (RO),High,0,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,0,0,0,1,1,0,1,0,1,Humid,Morning,1,Filtered (RO),Filtered (RO),Medium,1,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,1,1,1,0,1,1,1,1,1,Rainy/Flooded,Noon,0,Filtered (RO),Filtered (RO),Low,0,Occasionally,Poor,12,0,0,0,0,0,0,0,0,0,Acne
+1,0,0,1,1,0,0,1,0,0,0,1,Hot/Dry,Morning,0,Filtered (RO),Bottled,Low,1,Never,Average,1,0,0,0,0,0,1,0,0,1,Acne
+1,0,1,0,0,1,1,1,0,1,0,1,Rainy/Flooded,Noon,0,Filtered (RO),Bottled,Medium,0,Never,Poor,1,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,0,1,1,0,1,1,1,1,1,1,Hot/Dry,Noon,0,Tap,Boiled,High,0,Never,Good,14,0,0,0,0,1,0,0,0,0,Acne
+1,0,0,1,1,0,0,1,0,1,1,1,Humid,Afternoon,0,Tap,Tap,High,0,Never,Average,8,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,0,0,0,1,0,1,1,0,1,Humid,Noon,0,Filtered (RO),Boiled,Low,0,Never,Average,9,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,0,1,0,1,0,1,0,1,Humid,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Acne
+1,0,1,1,1,1,0,1,0,1,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,1,0,0,0,0,0,1,1,Rainy/Flooded,Morning,0,Boiled,Boiled,Medium,1,Often,Average,5,1,0,0,0,0,0,0,0,0,Fungal infection
+1,0,1,1,1,0,0,0,0,1,1,1,Hot/Dry,Noon,0,Tap,Tap,Medium,1,Never,Average,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,0,0,0,0,1,1,0,1,Hot/Dry,Noon,0,Filtered (RO),Tap,Low,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Allergy
+0,1,1,1,1,0,1,0,0,1,0,0,Hot/Dry,Afternoon,0,Boiled,Tap,High,1,Occasionally,Average,7,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,0,0,1,1,0,1,0,1,0,1,Humid,Noon,0,Tap,Boiled,Medium,0,Never,Good,7,0,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,1,0,1,1,0,0,0,Humid,Afternoon,0,Tap,Filtered (RO),Low,0,Often,Good,4,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,0,0,1,1,1,1,1,1,0,1,Hot/Dry,,0,Boiled,Filtered (RO),High,1,Never,Average,2,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,0,0,0,0,0,0,1,0,1,Humid,Afternoon,0,Filtered (RO),Tap,Medium,1,Often,Good,5,0,0,0,0,0,0,0,0,0,Dermatitis
+0,0,0,0,1,0,0,1,1,1,0,0,Hot/Dry,Morning,0,Filtered (RO),Boiled,Medium,0,Often,Good,14,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,0,0,1,0,0,0,0,1,Humid,Noon,0,Boiled,Boiled,Low,0,Occasionally,Average,11,1,0,0,0,0,0,0,0,0,Fungal infection
+1,0,1,1,1,1,0,1,1,0,0,1,Hot/Dry,Morning,0,Boiled,Tap,High,0,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,1,0,0,0,0,0,0,1,1,Humid,Morning,0,Bottled,Tap,Medium,1,Occasionally,Average,3,0,0,0,0,0,1,0,0,1,Acne
+1,1,1,0,0,1,1,1,1,0,1,1,Hot/Dry,,0,Filtered (RO),Tap,High,0,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,0,1,1,1,0,0,1,0,1,Cold,Morning,0,Tap,Bottled,Medium,1,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,0,0,0,0,0,1,0,1,Hot/Dry,Noon,0,Tap,Filtered (RO),High,0,Never,Average,6,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,1,1,0,0,1,0,1,1,Hot/Dry,Afternoon,0,Tap,Bottled,High,0,Never,Average,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,0,0,0,0,1,0,0,0,0,1,Hot/Dry,Afternoon,1,Filtered (RO),Tap,Medium,0,Occasionally,Average,3,0,0,1,0,0,0,0,0,1,Fungal infection
+1,0,1,0,1,0,0,1,0,0,1,1,Cold,Noon,1,Tap,Boiled,Low,0,Occasionally,Average,12,0,0,1,1,0,0,0,0,0,Fungal infection
+1,0,1,1,1,0,0,1,0,1,0,1,Rainy/Flooded,Morning,0,Bottled,Boiled,High,0,Often,Average,4,1,0,0,0,0,0,0,0,1,Fungal infection
+1,1,0,1,0,1,0,1,0,0,1,1,Hot/Dry,Noon,0,Filtered (RO),Filtered (RO),High,1,Never,Good,9,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,0,0,1,0,0,1,0,1,1,Humid,Noon,0,Filtered (RO),Bottled,Medium,1,Often,Average,11,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,0,1,1,1,0,1,0,1,1,Rainy/Flooded,Morning,0,Tap,Tap,Medium,1,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,0,0,1,1,1,1,1,1,1,Humid,Noon,0,Tap,Tap,Low,1,Occasionally,Poor,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,0,1,0,1,0,0,1,0,1,Humid,Morning,0,Tap,Filtered (RO),High,1,Occasionally,Poor,1,1,0,0,1,0,0,0,0,1,Fungal infection
+1,0,1,1,1,0,1,0,1,1,0,0,Hot/Dry,Morning,0,Tap,Boiled,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,1,1,0,0,0,0,1,1,Hot/Dry,Noon,0,Tap,Filtered (RO),High,1,Never,Good,14,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,1,0,0,0,0,0,0,1,Rainy/Flooded,Morning,0,Filtered (RO),Tap,High,0,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,1,0,0,0,0,1,0,1,Cold,Noon,0,Boiled,Filtered (RO),Medium,0,Often,Average,2,0,0,0,0,0,0,1,0,1,Acne
+1,0,0,0,1,0,1,0,0,0,1,1,Humid,Afternoon,0,Boiled,Tap,Medium,0,Occasionally,Average,11,0,0,0,0,0,0,0,1,0,Eczema
+1,0,0,0,1,1,0,1,0,0,1,1,Hot/Dry,Afternoon,1,Filtered (RO),Tap,Medium,0,Occasionally,Good,11,0,0,1,0,0,0,0,0,0,Eczema
+0,0,0,1,1,1,1,0,0,0,0,0,Hot/Dry,Morning,0,Tap,Filtered (RO),Medium,0,Often,Average,8,0,0,0,0,0,0,0,0,0,Melanoma
+0,0,0,0,0,1,0,0,0,0,0,0,Rainy/Flooded,Morning,0,Boiled,Boiled,Medium,1,Often,Good,6,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,1,0,0,0,0,1,1,0,1,Rainy/Flooded,Morning,0,Boiled,Tap,Medium,0,Occasionally,Poor,8,1,0,0,0,0,0,0,0,0,Fungal infection
+1,0,1,1,1,1,1,1,1,0,0,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Low,0,Occasionally,Good,6,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,1,0,1,0,1,0,0,1,1,Rainy/Flooded,Afternoon,0,Boiled,Tap,High,0,Often,Poor,5,1,0,0,0,0,0,0,0,0,Fungal infection
+1,1,1,0,0,0,0,1,1,0,1,1,Humid,Morning,0,Tap,Tap,High,0,Occasionally,Poor,5,1,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,1,0,1,1,1,0,1,0,1,Hot/Dry,,0,Boiled,Boiled,Medium,0,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Acne
+0,0,1,1,0,0,0,0,1,0,1,0,Hot/Dry,Morning,0,Bottled,Bottled,Medium,0,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,1,0,0,0,1,1,0,1,1,Rainy/Flooded,Noon,0,Tap,Tap,High,0,Often,Average,10,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,1,1,0,1,1,0,1,1,0,Humid,Afternoon,0,Boiled,Boiled,Low,0,Never,Average,10,0,0,0,0,0,0,0,0,0,Allergy
+1,1,0,1,1,0,0,1,0,0,0,1,Hot/Dry,,0,Filtered (RO),Boiled,High,1,Often,Average,11,0,0,0,0,0,0,0,1,0,Eczema
+1,1,1,0,0,0,0,1,0,1,0,1,Hot/Dry,Afternoon,0,Bottled,Boiled,Low,1,Never,Average,8,0,0,0,0,0,0,0,0,0,Allergy
+0,1,1,0,1,1,1,0,1,1,0,0,Humid,Afternoon,0,Tap,Tap,High,0,Often,Average,7,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,1,0,0,1,1,0,0,1,1,Hot/Dry,Noon,1,Boiled,Bottled,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,1,1,1,1,0,0,1,1,1,Hot/Dry,Afternoon,0,Tap,Tap,Low,0,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Psoriasis
+0,1,1,0,1,1,0,0,1,0,0,0,Humid,Morning,0,Tap,Tap,High,1,Often,Good,8,0,0,0,0,0,0,0,0,0,Melanoma
+0,1,1,0,1,0,0,0,1,1,0,0,Humid,,0,Tap,Tap,Low,0,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Acne
+1,0,1,0,0,1,1,1,1,0,1,1,Humid,Noon,0,Bottled,Tap,Medium,0,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Allergy
+1,1,0,0,0,1,0,1,0,1,0,1,Hot/Dry,Afternoon,0,Boiled,Tap,Low,1,Never,Good,11,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,0,0,1,0,1,1,1,0,1,Rainy/Flooded,Noon,0,Boiled,Tap,Medium,0,Never,Good,9,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,1,0,0,1,0,0,1,1,Hot/Dry,Afternoon,1,Bottled,Tap,Medium,0,Occasionally,Good,13,0,0,1,0,0,0,0,0,0,Eczema
+1,0,0,0,0,0,0,1,0,1,1,1,Hot/Dry,Noon,0,Tap,Boiled,High,0,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,1,1,1,0,0,0,1,1,Rainy/Flooded,Afternoon,0,Tap,Boiled,Medium,1,Never,Poor,12,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,0,1,0,1,0,1,0,1,Humid,Morning,0,Tap,Tap,High,1,Never,Good,11,1,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,0,0,1,0,1,1,0,0,1,Rainy/Flooded,Morning,0,Tap,Boiled,High,1,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,0,1,1,0,1,1,1,1,Humid,Morning,0,Tap,Boiled,High,0,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,0,1,0,1,0,1,1,1,1,1,Humid,Morning,0,Tap,Boiled,Medium,0,Often,Poor,13,0,0,0,0,0,0,1,0,0,Acne
+1,0,1,1,0,0,1,1,0,1,1,1,Hot/Dry,,0,Tap,Tap,Medium,1,Never,Average,1,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,1,1,1,1,1,0,0,0,0,Hot/Dry,Morning,0,Tap,Filtered (RO),High,1,Never,Average,11,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,1,1,1,0,0,1,0,0,1,1,0,Hot/Dry,,0,Tap,Bottled,High,0,Often,Average,2,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,0,0,0,1,0,0,1,1,1,Hot/Dry,Noon,1,Tap,Filtered (RO),Medium,1,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,0,1,0,1,1,0,0,1,Cold,Morning,0,Bottled,Tap,High,0,Often,Average,1,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,1,0,1,0,1,1,1,1,1,Hot/Dry,Afternoon,1,Boiled,Filtered (RO),High,0,Often,Good,10,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,0,1,0,0,1,1,0,1,Rainy/Flooded,Afternoon,0,Bottled,Filtered (RO),High,1,Often,Poor,12,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,0,0,0,0,1,0,1,1,1,Humid,Noon,1,Tap,Filtered (RO),Low,0,Never,Average,3,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,0,0,1,0,0,1,0,1,1,1,Rainy/Flooded,Noon,0,Tap,Tap,Low,1,Often,Average,11,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,1,0,0,0,0,1,1,1,Humid,Afternoon,0,Boiled,Tap,Medium,0,Often,Average,5,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,0,1,0,0,1,0,0,1,Humid,Morning,1,Tap,Boiled,Medium,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,1,1,0,1,1,0,1,0,0,1,Humid,,0,Tap,Boiled,Medium,1,Occasionally,Poor,4,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,0,0,1,1,1,0,0,1,1,1,Hot/Dry,,1,Tap,Tap,Medium,1,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,0,1,0,0,1,0,0,1,Rainy/Flooded,Afternoon,0,Tap,Bottled,Medium,0,Never,Average,13,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,0,0,0,1,0,0,1,1,0,Hot/Dry,Morning,0,Tap,Tap,Medium,0,Occasionally,Good,8,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,0,0,0,1,1,1,0,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),High,1,Occasionally,Poor,6,0,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,1,0,1,1,0,1,1,1,1,Humid,Morning,0,Filtered (RO),Boiled,High,0,Occasionally,Average,13,1,0,0,0,0,0,0,0,0,Fungal infection
+1,0,1,1,0,0,1,0,1,0,1,1,Hot/Dry,Morning,0,Tap,Boiled,Medium,1,Occasionally,Good,1,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,1,0,0,1,1,1,1,0,0,1,Cold,Noon,0,Tap,Bottled,Low,1,Occasionally,Good,12,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,0,1,1,0,0,1,1,1,Cold,Noon,0,Boiled,Tap,Medium,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Drug Reaction
+0,1,0,0,0,1,1,1,1,1,0,0,Cold,,0,Tap,Boiled,Low,0,Often,Poor,3,0,0,0,0,0,0,0,0,1,Melanoma
+1,0,0,1,0,1,0,0,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Low,0,Never,Good,14,0,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,0,1,0,1,0,1,0,Hot/Dry,Afternoon,0,Boiled,Boiled,High,1,Occasionally,Average,10,0,1,0,0,0,0,0,0,0,Melanoma
+0,1,0,1,1,0,1,0,1,1,1,0,Cold,Noon,0,Tap,Boiled,Medium,0,Never,Good,8,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,0,0,0,0,0,1,0,1,0,1,Humid,Noon,0,Tap,Filtered (RO),Medium,0,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,0,1,0,1,1,0,1,1,1,Cold,Noon,0,Tap,Tap,Low,0,Often,Average,11,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,0,1,1,1,1,1,1,1,Cold,,0,Tap,Boiled,Low,0,Often,Poor,14,0,0,0,1,0,0,0,0,0,Fungal infection
+1,1,0,0,0,1,1,1,0,0,0,1,Rainy/Flooded,Morning,0,Filtered (RO),Tap,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Impetigo
+0,1,0,0,1,0,0,0,1,0,1,0,Hot/Dry,,0,Boiled,Tap,High,0,Often,Poor,13,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,0,0,1,1,1,1,1,0,1,1,Hot/Dry,Noon,1,Tap,Boiled,Medium,1,Never,Average,3,0,0,1,0,0,0,0,0,1,Drug Reaction
+1,0,1,0,1,0,0,1,1,0,0,1,Rainy/Flooded,Noon,0,Filtered (RO),Tap,High,1,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,1,1,0,1,1,1,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Boiled,Medium,1,Never,Average,12,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,1,0,1,1,1,1,0,0,1,Hot/Dry,Noon,0,Tap,Tap,Low,0,Often,Average,3,0,0,0,0,0,0,1,0,1,Acne
+1,1,0,0,1,0,0,1,1,0,1,1,Humid,,0,Filtered (RO),Tap,Medium,0,Occasionally,Poor,4,0,0,0,0,0,0,0,0,1,Acne
+1,1,1,0,1,1,0,0,0,0,0,1,Cold,,0,Tap,Boiled,Medium,1,Occasionally,Poor,9,0,0,0,1,0,0,0,1,0,Eczema
+0,1,0,1,0,1,1,0,0,0,0,0,Humid,Noon,0,Tap,Filtered (RO),Medium,0,Often,Good,13,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,1,1,1,1,0,0,1,1,Humid,Noon,0,Tap,Tap,Medium,1,Never,Good,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,0,0,0,0,1,1,0,0,1,1,Hot/Dry,Noon,0,Tap,Boiled,Medium,1,Never,Good,3,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,0,1,0,0,0,1,1,0,1,Humid,,1,Tap,Filtered (RO),Medium,0,Often,Poor,5,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,1,0,0,1,1,0,1,0,1,Cold,Morning,1,Boiled,Filtered (RO),Low,1,Occasionally,Poor,7,0,0,1,0,0,0,0,1,0,Eczema
+0,0,0,0,0,0,0,0,1,1,0,0,Hot/Dry,Afternoon,0,Tap,Tap,Low,1,Never,Average,5,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,0,1,0,0,0,1,1,1,0,1,Humid,Afternoon,0,Tap,Boiled,High,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Chickenpox
+0,0,1,0,1,1,0,0,0,0,1,0,Rainy/Flooded,Afternoon,0,Tap,Boiled,Low,0,Occasionally,Average,8,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,1,1,0,1,0,0,1,0,Rainy/Flooded,Morning,0,Boiled,Boiled,Medium,0,Never,Average,4,0,0,0,0,0,0,0,0,1,Chickenpox
+0,1,0,0,1,1,0,1,1,1,1,0,Humid,Afternoon,0,Filtered (RO),Tap,High,0,Occasionally,Good,2,0,0,0,0,1,0,0,0,1,Acne
+1,1,0,1,1,0,0,1,1,0,1,0,Rainy/Flooded,,0,Filtered (RO),Boiled,High,0,Never,Average,10,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,1,1,0,1,1,1,1,1,Hot/Dry,Morning,0,Boiled,Filtered (RO),High,0,Occasionally,Good,13,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,1,1,1,1,0,0,0,1,1,Hot/Dry,Morning,0,Boiled,Filtered (RO),Low,1,Often,Good,14,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,0,0,0,0,0,1,1,1,1,Rainy/Flooded,,0,Tap,Tap,Medium,0,Often,Poor,6,0,0,0,0,0,0,0,0,0,Melanoma
+0,0,1,1,0,0,0,1,0,1,1,0,Rainy/Flooded,Morning,1,Filtered (RO),Boiled,Medium,0,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Psoriasis
+0,0,1,0,0,1,1,1,0,1,0,0,Rainy/Flooded,,1,Boiled,Boiled,High,1,Never,Average,3,0,0,0,0,1,1,0,0,1,Acne
+1,0,1,1,1,1,0,1,0,1,1,1,Cold,Noon,0,Bottled,Tap,Medium,0,Often,Average,1,0,0,0,0,0,0,0,1,1,Eczema
+0,1,0,1,0,1,1,0,0,1,1,0,Humid,Morning,0,Boiled,Tap,High,1,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,1,0,0,0,0,0,1,1,Humid,,1,Tap,Boiled,Medium,0,Never,Average,9,0,0,1,1,0,0,0,1,0,Eczema
+0,1,1,1,1,1,1,1,1,0,0,0,Rainy/Flooded,Noon,0,Tap,Tap,Medium,0,Often,Average,2,0,1,0,0,0,0,0,0,1,Melanoma
+1,1,0,1,0,0,0,1,1,1,1,1,Humid,Noon,0,Tap,Bottled,High,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,0,1,0,0,0,0,1,1,1,Rainy/Flooded,Noon,0,Boiled,Filtered (RO),Low,1,Often,Average,7,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,1,0,1,1,1,0,1,0,1,Rainy/Flooded,Noon,0,Tap,Filtered (RO),High,0,Often,Good,5,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,1,1,0,1,0,1,0,1,Rainy/Flooded,Morning,0,Tap,Tap,Medium,1,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,1,0,0,1,0,0,0,1,1,Hot/Dry,Noon,1,Boiled,Tap,Medium,0,Occasionally,Average,8,0,0,1,0,0,0,0,0,0,Fungal infection
+1,1,1,0,1,0,0,1,1,1,0,1,Hot/Dry,,1,Tap,Bottled,Medium,0,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,1,1,1,1,1,1,0,0,Hot/Dry,Noon,0,Boiled,Tap,High,0,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,0,0,1,1,0,1,0,1,Humid,Afternoon,0,Tap,Boiled,High,1,Occasionally,Average,13,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,0,1,1,1,0,1,0,0,0,0,Hot/Dry,Noon,1,Tap,Tap,Low,1,Often,Good,6,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,1,0,1,0,0,0,1,1,Humid,Afternoon,0,Tap,Tap,High,0,Often,Average,4,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,1,1,1,0,1,0,0,0,0,1,Humid,Morning,1,Boiled,Tap,Low,0,Occasionally,Poor,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,1,0,0,0,0,1,1,1,Hot/Dry,,0,Tap,Filtered (RO),Low,0,Often,Good,4,0,0,0,1,0,0,0,0,1,Fungal infection
+1,0,0,0,0,1,0,1,1,0,0,1,Humid,Noon,0,Tap,Bottled,High,0,Often,Average,2,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,0,1,0,0,1,1,0,0,1,Hot/Dry,Morning,0,Bottled,Tap,High,0,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,1,1,1,0,0,0,1,1,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,1,1,1,0,0,0,0,1,Rainy/Flooded,Morning,0,Filtered (RO),Tap,Low,1,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,0,0,0,0,1,1,0,0,1,1,Hot/Dry,Noon,0,Filtered (RO),Filtered (RO),Low,0,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,1,0,1,0,0,1,1,1,Hot/Dry,Noon,0,Tap,Tap,Medium,0,Never,Average,5,0,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,1,1,0,1,0,1,1,1,1,Humid,Afternoon,0,Filtered (RO),Boiled,Medium,1,Occasionally,Poor,10,0,0,0,0,0,0,0,0,0,Chickenpox
+0,1,1,0,0,0,1,1,1,0,0,0,Rainy/Flooded,Noon,0,Tap,Filtered (RO),High,1,Occasionally,Good,6,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,0,1,1,0,0,0,0,1,1,1,Hot/Dry,Morning,1,Filtered (RO),Filtered (RO),Low,0,Occasionally,Good,6,0,0,1,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,1,1,1,1,1,1,1,Humid,Afternoon,1,Tap,Tap,Low,0,Often,Poor,14,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,0,0,0,1,1,1,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Bottled,High,0,Never,Average,4,0,0,0,0,0,0,0,1,1,Eczema
+1,0,1,0,1,1,0,0,0,1,1,1,Hot/Dry,Morning,0,Tap,Tap,High,0,Often,Average,6,0,0,0,1,0,0,0,1,0,Eczema
+0,0,1,0,1,0,0,1,0,1,1,0,Humid,Morning,0,Filtered (RO),Tap,High,0,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Melanoma
+1,0,0,1,1,0,0,0,1,1,1,1,Humid,Morning,0,Tap,Filtered (RO),High,0,Never,Average,7,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,1,0,1,0,0,0,1,1,Humid,Afternoon,1,Tap,Filtered (RO),Low,1,Often,Average,7,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,1,0,1,1,1,0,0,0,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Good,4,0,1,0,0,0,0,0,0,1,Melanoma
+1,0,0,1,0,1,0,0,0,0,0,1,Cold,Noon,0,Tap,Tap,High,0,Occasionally,Good,2,0,0,0,1,0,0,0,0,1,Eczema
+0,1,0,0,0,0,0,1,0,1,0,0,Humid,Afternoon,1,Boiled,Boiled,Medium,0,Often,Good,11,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,0,0,1,0,1,0,1,1,1,1,Hot/Dry,Afternoon,0,Tap,Tap,Low,1,Occasionally,Poor,7,0,0,0,0,0,1,0,0,0,Acne
+1,0,1,0,1,1,1,0,0,0,1,1,Rainy/Flooded,Noon,0,Bottled,Boiled,Medium,1,Occasionally,Good,3,0,0,0,0,0,0,0,0,1,Eczema
+1,0,0,1,1,0,0,0,1,1,1,1,Hot/Dry,,1,Bottled,Filtered (RO),Medium,0,Never,Average,1,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,0,0,0,1,1,0,0,0,1,Humid,Morning,0,Filtered (RO),Tap,High,0,Often,Poor,2,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,1,1,1,1,0,0,1,1,0,1,Hot/Dry,Morning,1,Tap,Tap,Low,1,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,1,1,0,1,1,0,0,1,Hot/Dry,Noon,0,Tap,Tap,Low,0,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Psoriasis
+0,1,0,0,1,0,1,0,0,1,1,0,Cold,Morning,0,Boiled,Boiled,High,0,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Melanoma
+0,1,0,1,1,0,0,0,1,0,0,0,Rainy/Flooded,Noon,0,Tap,Filtered (RO),High,0,Occasionally,Average,8,0,0,0,0,1,0,0,0,0,Acne
+1,1,0,0,1,0,1,1,1,1,1,1,Humid,,1,Tap,Tap,High,0,Often,Average,14,0,0,1,1,0,0,0,1,0,Eczema
+1,0,1,1,1,1,0,0,0,1,0,1,Humid,Morning,0,Filtered (RO),Filtered (RO),High,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,0,0,0,0,1,1,1,1,Hot/Dry,Morning,0,Boiled,Bottled,Medium,1,Occasionally,Poor,14,0,0,0,0,0,1,0,0,0,Acne
+1,1,1,0,1,1,0,1,0,1,1,1,Hot/Dry,Noon,0,Boiled,Tap,Low,1,Occasionally,Poor,6,0,0,0,0,0,1,0,0,0,Acne
+1,1,0,1,0,1,1,0,0,1,0,1,Hot/Dry,,0,Tap,Bottled,Medium,0,Often,Poor,14,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,0,0,1,0,1,0,0,1,Humid,Noon,0,Filtered (RO),Tap,Low,1,Occasionally,Poor,1,0,0,0,0,0,0,0,0,1,Allergy
+1,0,0,0,1,0,0,1,1,1,1,1,Rainy/Flooded,Noon,0,Tap,Tap,Medium,0,Often,Average,2,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,0,0,1,0,1,1,0,0,1,0,1,Humid,Morning,0,Tap,Tap,Medium,0,Often,Average,4,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,1,1,0,1,1,1,0,1,1,Hot/Dry,Morning,0,Boiled,Tap,Medium,0,Occasionally,Poor,3,0,0,0,0,0,0,0,0,1,Melanoma
+0,1,0,1,1,1,1,0,0,0,1,0,Cold,,0,Tap,Tap,High,1,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,0,1,0,0,0,1,1,0,0,0,Rainy/Flooded,,0,Tap,Tap,Medium,0,Occasionally,Poor,1,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,1,1,0,1,0,1,1,1,1,Humid,Morning,0,Tap,Bottled,Medium,0,Often,Average,8,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,0,1,0,1,1,0,1,1,Humid,,1,Boiled,Boiled,High,1,Occasionally,Average,7,0,0,1,0,0,0,0,1,0,Eczema
+1,1,0,1,1,0,0,1,0,1,0,1,Humid,Afternoon,0,Boiled,Boiled,Medium,1,Occasionally,Average,4,0,0,0,0,0,1,0,0,1,Acne
+1,1,0,0,1,0,0,1,0,0,0,1,Hot/Dry,,1,Filtered (RO),Tap,Medium,1,Often,Poor,12,0,0,0,0,0,1,1,0,0,Acne
+1,1,0,1,1,0,1,1,1,1,0,1,Hot/Dry,Noon,0,Boiled,Tap,Low,0,Occasionally,Good,12,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,1,1,0,1,0,1,0,0,1,Rainy/Flooded,Noon,0,Tap,Tap,Medium,0,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,1,1,0,0,1,1,0,1,Hot/Dry,Noon,0,Tap,Boiled,Low,0,Occasionally,Average,11,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,1,0,0,0,0,1,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Bottled,Medium,0,Never,Good,14,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,1,1,0,0,1,1,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Often,Average,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,0,0,0,0,1,0,1,1,1,Hot/Dry,Morning,0,Tap,Tap,Medium,0,Never,Average,1,0,0,0,0,0,0,0,0,1,Acne
+1,1,1,0,1,1,1,0,0,0,0,1,Rainy/Flooded,Noon,0,Bottled,Filtered (RO),Low,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,0,1,0,1,0,1,0,1,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,1,Often,Average,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,1,1,1,1,0,0,1,1,1,1,Humid,Morning,0,Tap,Tap,Medium,0,Occasionally,Average,1,0,0,0,1,0,0,0,1,1,Eczema
+1,1,1,1,1,0,1,1,0,0,1,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Medium,0,Often,Average,1,0,0,0,0,0,0,0,0,1,Allergy
+1,0,0,0,1,1,0,1,1,1,0,1,Humid,,0,Tap,Boiled,Medium,1,Often,Average,4,1,0,0,1,0,0,0,0,1,Fungal infection
+1,0,0,0,1,1,1,0,0,1,0,1,Humid,Morning,0,Bottled,Tap,High,1,Occasionally,Good,1,1,0,0,0,0,0,0,0,1,Fungal infection
+0,0,1,0,0,1,0,1,1,0,1,0,Hot/Dry,Afternoon,0,Tap,Tap,High,1,Never,Poor,2,0,1,0,0,0,0,0,0,1,Melanoma
+1,0,0,0,0,0,0,0,0,0,1,1,Humid,Noon,0,Tap,Bottled,High,0,Often,Average,4,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,0,0,0,1,1,0,0,0,1,1,Hot/Dry,,0,Boiled,Tap,Low,0,Occasionally,Average,7,0,0,0,0,0,0,0,1,0,Eczema
+1,0,1,1,0,1,0,1,1,0,0,1,Humid,Morning,0,Tap,Tap,High,1,Never,Average,2,0,0,0,1,0,0,0,1,1,Eczema
+0,1,1,1,0,0,0,0,1,1,1,0,Humid,Afternoon,0,Tap,Tap,High,0,Often,Average,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,0,0,1,1,1,1,1,1,0,Hot/Dry,Afternoon,0,Tap,Tap,Medium,0,Never,Average,13,0,0,0,0,0,0,0,0,0,Allergy
+0,1,1,0,1,1,0,0,1,0,0,0,Hot/Dry,,0,Filtered (RO),Tap,Medium,1,Often,Average,7,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,0,1,1,1,0,0,1,1,0,1,Humid,Afternoon,0,Bottled,Boiled,Medium,0,Never,Average,9,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,0,0,0,0,1,1,0,1,Humid,Noon,0,Boiled,Tap,High,1,Never,Average,14,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,1,1,1,1,1,1,1,0,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Low,0,Never,Average,6,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,1,1,1,1,0,1,0,1,Humid,,0,Boiled,Filtered (RO),Low,0,Often,Good,4,0,0,0,0,0,0,0,0,1,Eczema
+1,0,1,0,1,1,1,0,1,0,1,1,Hot/Dry,Noon,1,Tap,Filtered (RO),Low,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,0,0,0,0,0,0,1,0,1,1,Hot/Dry,Morning,0,Tap,Boiled,Medium,1,Often,Good,4,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,1,1,1,0,1,1,1,0,0,1,Humid,,1,Tap,Boiled,Medium,0,Occasionally,Good,7,1,0,1,1,0,0,0,0,0,Fungal infection
+1,0,0,1,0,1,0,0,0,0,1,1,Hot/Dry,Afternoon,0,Tap,Tap,High,0,Occasionally,Poor,9,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,1,1,1,1,1,0,1,1,Humid,Afternoon,0,Filtered (RO),Boiled,High,1,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,0,1,1,0,0,1,1,0,0,1,Cold,Morning,0,Filtered (RO),Tap,High,1,Occasionally,Average,3,0,0,0,0,1,1,0,0,1,Acne
+0,1,0,0,1,0,1,1,1,0,1,0,Humid,Afternoon,0,Bottled,Bottled,Medium,1,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,1,0,0,0,1,0,1,0,1,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Poor,1,0,0,0,0,0,0,0,0,1,Fungal infection
+1,1,1,1,1,0,0,1,1,0,0,1,Humid,Afternoon,0,Filtered (RO),Bottled,Medium,0,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,0,0,1,0,0,1,0,0,1,Humid,Morning,0,Tap,Boiled,High,1,Often,Average,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,1,0,1,0,1,0,0,0,1,1,Humid,Afternoon,0,Tap,Tap,Medium,1,Never,Average,13,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,1,1,0,1,0,1,1,1,Cold,,0,Filtered (RO),Filtered (RO),Medium,0,Often,Poor,3,0,0,0,0,0,0,0,0,1,Chickenpox
+0,0,0,0,0,1,1,1,0,0,1,0,Hot/Dry,Morning,0,Tap,Bottled,Medium,0,Never,Poor,14,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,0,1,1,1,0,1,0,1,0,1,Cold,,0,Boiled,Boiled,Medium,1,Occasionally,Poor,7,0,0,0,0,0,0,0,0,0,Fungal infection
+1,1,1,1,0,1,1,0,0,1,1,1,Cold,Noon,0,Tap,Tap,High,0,Occasionally,Good,11,0,0,0,0,1,0,0,0,0,Acne
+1,1,1,1,0,1,0,0,1,0,1,1,Hot/Dry,,0,Tap,Boiled,Low,1,Occasionally,Good,9,0,0,0,1,0,0,0,0,0,Fungal infection
+0,0,0,1,1,0,1,1,0,0,0,0,Hot/Dry,Afternoon,1,Tap,Tap,Medium,0,Occasionally,Good,14,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,1,0,1,0,0,0,0,0,1,Hot/Dry,Noon,0,Tap,Tap,High,0,Occasionally,Good,2,0,0,0,0,1,0,0,0,1,Acne
+1,0,0,1,0,1,1,1,1,1,0,1,Hot/Dry,Afternoon,1,Tap,Tap,High,1,Occasionally,Poor,7,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,0,1,1,1,1,0,1,1,Hot/Dry,,0,Boiled,Tap,Medium,0,Often,Good,1,0,0,0,0,0,0,0,0,1,Allergy
+1,0,0,1,1,0,1,1,1,0,0,1,Humid,Noon,0,Tap,Boiled,Low,0,Occasionally,Good,2,0,0,0,1,0,0,0,0,1,Eczema
+1,1,1,0,0,0,0,0,0,0,1,1,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,0,Often,Good,6,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,0,0,1,1,1,0,0,1,1,1,0,Hot/Dry,Afternoon,0,Tap,Boiled,High,0,Occasionally,Good,11,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,0,0,0,1,1,1,0,1,Rainy/Flooded,Afternoon,1,Tap,Tap,Low,1,Occasionally,Good,5,1,0,1,1,0,0,0,0,0,Fungal infection
+1,1,0,0,0,1,0,0,1,1,1,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,1,Occasionally,Average,8,0,0,0,0,0,1,0,0,0,Acne
+1,0,0,1,0,0,1,1,1,1,1,1,Rainy/Flooded,Afternoon,0,Boiled,Tap,Medium,1,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,0,0,0,0,0,0,0,1,Hot/Dry,Noon,0,Tap,Tap,Medium,0,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,1,0,1,0,1,0,0,Hot/Dry,Afternoon,0,Boiled,Tap,High,0,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Psoriasis
+0,1,0,1,0,1,0,1,1,1,1,0,Humid,Morning,1,Tap,Tap,Medium,0,Never,Average,1,0,0,0,0,0,0,0,0,1,Psoriasis
+0,1,1,1,1,0,0,0,1,1,0,0,Humid,Noon,0,Boiled,Filtered (RO),Medium,1,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,0,1,0,1,0,0,1,1,Rainy/Flooded,Morning,0,Tap,Tap,Low,1,Never,Average,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,1,1,1,1,0,1,1,0,1,Rainy/Flooded,Noon,0,Filtered (RO),Tap,Medium,1,Occasionally,Average,8,1,0,0,0,0,0,0,0,0,Fungal infection
+1,1,0,1,0,1,1,1,1,1,0,1,Rainy/Flooded,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Impetigo
+0,0,1,0,1,1,1,0,1,0,1,0,Hot/Dry,Noon,0,Bottled,Boiled,Medium,0,Often,Average,13,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,0,1,0,1,1,1,0,1,0,1,Hot/Dry,Afternoon,0,Tap,Bottled,Low,0,Often,Good,14,0,0,0,0,0,0,0,0,0,Chickenpox
+0,1,1,0,1,1,0,0,0,1,0,0,Rainy/Flooded,Noon,0,Tap,Tap,Low,0,Never,Poor,8,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,0,1,0,1,0,0,1,1,Rainy/Flooded,Noon,0,Tap,Tap,Medium,0,Often,Poor,2,0,0,0,1,0,0,0,1,1,Eczema
+0,0,1,0,0,1,1,0,0,0,1,0,Cold,Morning,0,Boiled,Tap,Medium,1,Often,Poor,14,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,0,1,0,1,1,0,1,1,Humid,Noon,0,Filtered (RO),Bottled,Medium,0,Occasionally,Good,8,0,0,0,0,0,0,0,0,0,Eczema
+0,1,0,0,0,0,0,0,0,1,0,0,Hot/Dry,Morning,0,Boiled,Tap,Medium,0,Occasionally,Poor,6,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,0,0,0,0,1,0,1,0,1,1,Rainy/Flooded,Morning,0,Tap,Tap,High,0,Often,Poor,9,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,0,0,0,0,0,1,1,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,1,Occasionally,Poor,12,0,0,0,1,0,0,0,1,0,Eczema
+1,1,0,0,1,0,0,0,1,1,0,1,Cold,Afternoon,0,Tap,Tap,High,0,Often,Good,7,0,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,0,0,1,1,0,0,0,1,1,Rainy/Flooded,Afternoon,0,Bottled,Tap,Low,1,Never,Average,2,0,0,0,0,0,1,0,0,1,Acne
+1,1,0,0,0,0,1,0,0,1,0,1,Humid,Noon,0,Filtered (RO),Boiled,Medium,1,Never,Poor,8,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,0,1,0,1,1,1,0,1,Rainy/Flooded,Noon,0,Bottled,Tap,Low,0,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Impetigo
+0,0,1,0,1,1,1,1,0,1,0,0,Rainy/Flooded,,0,Tap,Filtered (RO),Medium,1,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,1,1,0,0,1,0,0,0,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,0,Often,Poor,4,0,0,0,0,0,0,0,0,1,Chickenpox
+0,1,1,1,1,0,0,0,0,1,1,0,Cold,Noon,0,Filtered (RO),Tap,Medium,0,Often,Average,9,0,0,0,0,0,0,0,0,0,Psoriasis
+0,1,1,0,0,1,0,0,1,0,1,0,Humid,Morning,0,Tap,Bottled,High,1,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Melanoma
+1,0,0,1,1,1,0,1,0,1,0,1,Rainy/Flooded,Noon,0,Boiled,Tap,Medium,1,Never,Average,12,0,0,0,0,0,0,0,1,0,Eczema
+1,1,1,0,0,1,0,1,0,0,1,1,Hot/Dry,Noon,0,Bottled,Boiled,High,0,Often,Poor,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,0,0,0,0,1,1,0,1,0,1,Rainy/Flooded,Noon,0,Boiled,Filtered (RO),Medium,0,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Acne
+1,0,0,1,0,1,1,0,1,0,0,1,Hot/Dry,Noon,0,Boiled,Tap,Medium,0,Never,Average,14,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,1,1,0,1,0,0,1,1,Hot/Dry,Noon,0,Tap,Bottled,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,1,1,0,1,0,0,1,1,Cold,Afternoon,0,Tap,Tap,High,0,Often,Average,4,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,0,0,1,0,1,0,1,0,1,1,Hot/Dry,Afternoon,0,Bottled,Boiled,High,0,Often,Average,14,0,0,0,0,1,0,1,0,0,Acne
+1,1,0,1,0,0,0,0,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Poor,8,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,1,0,1,1,0,1,0,1,1,1,Cold,Afternoon,0,Boiled,Boiled,Low,1,Occasionally,Poor,8,0,0,0,0,0,0,0,1,0,Eczema
+1,0,1,0,1,0,0,0,0,1,0,0,Cold,,0,Boiled,Tap,Medium,0,Often,Good,7,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,0,1,0,1,0,0,0,0,1,Humid,Morning,0,Filtered (RO),Filtered (RO),Medium,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,1,1,0,0,0,1,0,1,1,Humid,Morning,0,Bottled,Boiled,Medium,0,Occasionally,Good,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,1,0,1,1,0,0,1,1,Humid,Morning,0,Tap,Bottled,High,1,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,0,1,1,0,0,1,1,0,1,Hot/Dry,Afternoon,0,Tap,Bottled,Low,0,Often,Average,8,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,0,0,1,1,1,0,0,0,1,Hot/Dry,,0,Tap,Boiled,Medium,0,Occasionally,Poor,7,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,0,1,0,1,0,1,1,1,Humid,Morning,0,Tap,Boiled,High,0,Never,Poor,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,0,0,0,0,0,0,1,1,Rainy/Flooded,,0,Tap,Tap,Medium,1,Occasionally,Good,12,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,0,0,0,1,1,0,0,1,Rainy/Flooded,Morning,0,Tap,Tap,High,0,Occasionally,Good,13,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,1,0,0,0,1,1,0,1,1,0,0,Rainy/Flooded,,1,Boiled,Tap,Low,1,Occasionally,Average,13,0,0,0,0,0,1,0,0,0,Acne
+1,1,1,1,1,1,1,0,0,0,1,1,Hot/Dry,Noon,0,Bottled,Tap,High,1,Never,Average,4,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,1,1,0,1,0,1,0,0,0,1,Humid,Morning,1,Tap,Tap,Medium,1,Occasionally,Good,14,0,0,0,0,0,0,0,0,0,Impetigo
+0,0,1,0,1,0,0,0,1,0,0,0,Hot/Dry,Noon,0,Tap,Filtered (RO),High,1,Occasionally,Poor,12,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,0,1,0,0,0,1,0,0,0,1,Humid,Noon,1,Bottled,Tap,Medium,0,Never,Poor,2,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,1,1,1,1,0,0,0,0,1,Humid,Noon,0,Tap,Filtered (RO),Medium,0,Never,Average,11,0,0,0,0,0,0,0,0,0,Chickenpox
+0,0,1,1,1,0,1,0,1,0,1,0,Rainy/Flooded,Noon,0,Tap,Tap,Medium,1,Often,Poor,8,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,1,0,0,0,0,1,1,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,0,Often,Average,9,0,0,0,0,0,0,0,0,0,Allergy
+1,1,0,1,0,1,0,1,0,0,1,0,Hot/Dry,Noon,0,Filtered (RO),Filtered (RO),Low,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,0,0,0,1,0,1,0,1,1,Hot/Dry,Noon,0,Tap,Boiled,High,1,Often,Average,4,0,0,0,0,1,1,1,0,1,Acne
+1,0,0,1,0,0,1,0,1,1,0,0,Rainy/Flooded,Afternoon,0,Bottled,Boiled,Medium,0,Occasionally,Good,5,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,1,0,1,0,0,1,0,0,1,Humid,Afternoon,0,Tap,Filtered (RO),High,0,Often,Poor,2,0,0,0,0,1,0,1,0,1,Acne
+1,0,0,0,1,0,1,0,0,1,0,1,Hot/Dry,Noon,0,Filtered (RO),Tap,Low,0,Occasionally,Average,7,0,0,0,0,0,0,0,1,0,Eczema
+1,0,1,1,0,1,1,1,1,0,0,1,Hot/Dry,Noon,0,Tap,Filtered (RO),Medium,0,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,0,0,1,1,0,0,0,1,Rainy/Flooded,Morning,0,Tap,Tap,Medium,1,Never,Average,6,1,0,0,1,0,0,0,0,0,Fungal infection
+1,1,0,1,1,1,0,1,0,1,0,1,Hot/Dry,Morning,1,Filtered (RO),Tap,Medium,0,Occasionally,Good,4,0,0,1,0,0,0,0,0,1,Fungal infection
+1,0,1,1,0,0,1,1,0,0,1,1,Rainy/Flooded,Afternoon,0,Boiled,Tap,High,0,Often,Good,8,0,0,0,0,1,0,1,0,0,Acne
+0,0,1,1,1,1,0,1,1,0,0,0,Rainy/Flooded,Morning,1,Boiled,Tap,High,0,Occasionally,Average,8,1,0,1,0,0,0,0,0,0,Fungal infection
+1,1,1,1,1,1,1,0,0,1,0,1,Hot/Dry,Noon,0,Filtered (RO),Tap,High,1,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,0,1,0,0,1,1,1,0,1,0,0,Hot/Dry,Afternoon,0,Bottled,Bottled,Medium,1,Never,Average,5,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,1,0,0,1,0,1,1,1,Cold,Morning,0,Boiled,Bottled,High,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,1,1,0,1,1,1,1,0,Hot/Dry,Noon,0,Boiled,Tap,High,1,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,1,1,0,0,1,0,1,1,Hot/Dry,Noon,0,Tap,Tap,Low,0,Occasionally,Average,3,0,0,0,1,0,0,0,1,1,Eczema
+1,0,0,1,0,1,0,1,0,1,1,0,Rainy/Flooded,,0,Tap,Tap,Low,1,Often,Average,1,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,0,1,0,0,1,1,0,0,1,Cold,Noon,0,Tap,Tap,Medium,0,Never,Poor,9,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,1,0,0,0,1,0,0,0,1,Cold,Afternoon,1,Filtered (RO),Bottled,Medium,1,Occasionally,Average,9,0,0,1,0,0,0,0,1,0,Eczema
+0,0,1,0,1,1,0,1,0,0,0,0,Rainy/Flooded,Noon,0,Tap,Tap,High,0,Often,Average,3,0,0,0,0,0,0,0,0,1,Psoriasis
+0,0,0,1,1,0,1,0,1,1,0,0,Hot/Dry,Morning,0,Tap,Boiled,Medium,0,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Psoriasis
+0,1,1,1,0,1,1,1,1,1,1,0,Hot/Dry,Afternoon,0,Boiled,Tap,Low,0,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,1,0,1,1,1,1,1,0,1,Rainy/Flooded,,0,Boiled,Bottled,High,1,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Eczema
+1,0,0,0,1,1,1,0,0,0,0,1,Humid,Afternoon,0,Bottled,Tap,High,0,Often,Average,2,1,0,0,0,0,0,0,0,1,Fungal infection
+1,1,1,0,1,0,0,0,0,1,1,1,Humid,Afternoon,0,Tap,Boiled,Medium,1,Never,Good,12,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,1,1,0,0,0,0,0,1,1,Cold,,0,Filtered (RO),Tap,Medium,0,Often,Average,3,0,0,0,0,0,0,0,1,1,Eczema
+1,1,0,0,0,0,1,1,0,1,0,1,Hot/Dry,Morning,0,Tap,Filtered (RO),High,0,Often,Average,6,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,1,0,1,0,0,0,0,1,0,1,Humid,Morning,0,Tap,Tap,Medium,0,Never,Average,11,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,1,0,1,1,0,0,1,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,1,Often,Good,8,0,0,0,1,0,0,0,0,0,Eczema
+1,0,0,1,1,0,1,0,0,1,0,1,Humid,Noon,1,Tap,Bottled,Medium,0,Occasionally,Good,1,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,0,0,0,1,1,0,1,1,0,1,Hot/Dry,Afternoon,0,Tap,Bottled,Medium,1,Occasionally,Average,4,0,0,0,1,0,0,0,0,1,Fungal infection
+1,1,1,1,0,0,1,0,1,0,1,0,Hot/Dry,,0,Boiled,Boiled,Low,1,Often,Good,1,0,0,0,0,0,0,0,0,1,Impetigo
+0,0,1,0,1,0,0,0,1,1,1,0,Hot/Dry,Noon,0,Tap,Filtered (RO),Medium,1,Often,Average,2,0,0,0,0,0,1,1,0,1,Acne
+1,0,1,0,0,0,1,0,1,1,0,1,Humid,Morning,1,Boiled,Boiled,Low,0,Never,Average,8,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,0,1,0,0,0,1,1,1,1,Rainy/Flooded,Afternoon,0,Filtered (RO),Tap,Medium,1,Occasionally,Average,6,0,0,0,0,0,0,0,1,0,Eczema
+1,0,0,1,1,1,1,1,0,1,0,1,Humid,Noon,0,Tap,Tap,Medium,1,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,0,1,0,1,0,1,1,0,1,Cold,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Poor,2,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,0,1,0,0,1,1,0,0,1,1,Hot/Dry,Noon,0,Tap,Filtered (RO),Low,1,Occasionally,Good,3,0,0,0,0,0,1,0,0,1,Acne
+1,0,0,0,1,0,0,1,0,0,0,1,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Low,0,Never,Good,9,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,1,0,0,0,0,0,1,1,0,1,Rainy/Flooded,Morning,0,Tap,Tap,High,0,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,1,0,0,0,0,0,0,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Low,0,Occasionally,Good,13,0,0,0,1,0,0,0,0,0,Eczema
+1,1,1,0,0,0,1,1,1,1,0,1,Cold,Noon,0,Tap,Boiled,Low,0,Never,Good,6,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,0,0,1,0,1,1,1,1,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,0,Often,Average,14,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,1,0,1,1,0,0,1,0,Cold,Morning,0,Bottled,Tap,High,0,Often,Average,3,0,0,0,0,0,0,0,0,1,Allergy
+1,0,1,0,1,1,0,0,1,0,0,0,Hot/Dry,Afternoon,0,Tap,Tap,Low,1,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,0,0,1,1,1,1,1,1,1,Rainy/Flooded,,0,Boiled,Tap,Low,0,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,1,0,0,0,1,0,1,0,1,1,Humid,Morning,1,Filtered (RO),Tap,High,0,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,0,1,0,0,0,0,0,0,0,1,Cold,Morning,0,Bottled,Filtered (RO),Low,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,1,1,0,1,1,0,0,1,1,Hot/Dry,Morning,0,Boiled,Filtered (RO),High,0,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,0,1,0,1,0,0,1,0,1,Humid,Afternoon,0,Filtered (RO),Filtered (RO),High,1,Often,Average,8,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,0,0,1,1,0,0,0,0,1,Cold,Afternoon,0,Filtered (RO),Tap,Medium,0,Never,Good,6,0,0,0,0,0,0,0,0,0,Eczema
+1,0,1,1,1,1,0,1,0,0,0,1,Humid,Noon,0,Boiled,Boiled,Medium,1,Never,Good,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,0,0,0,1,0,0,0,1,Humid,Morning,0,Tap,Tap,Medium,0,Never,Average,2,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,0,1,1,0,1,1,0,0,0,1,Humid,Noon,0,Tap,Tap,High,1,Never,Poor,3,0,0,0,0,1,1,0,0,1,Acne
+1,0,1,1,0,0,0,1,0,1,1,1,Humid,Noon,0,Tap,Boiled,Low,0,Never,Average,7,0,0,0,0,0,0,0,0,0,Acne
+1,1,1,0,0,0,1,1,0,1,1,1,Humid,Noon,0,Boiled,Tap,High,0,Often,Good,10,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,0,1,0,0,0,1,1,1,Humid,,0,Boiled,Tap,High,1,Occasionally,Poor,12,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,1,1,1,0,0,1,1,0,1,1,0,Cold,Morning,0,Tap,Boiled,High,0,Never,Average,1,0,0,0,0,0,0,0,0,1,Melanoma
+0,1,1,1,0,0,1,1,0,1,0,0,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Medium,1,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,1,1,0,1,0,1,1,1,Hot/Dry,Noon,0,Tap,Filtered (RO),Low,1,Often,Poor,6,0,0,0,0,0,1,1,0,0,Acne
+1,1,0,0,1,0,1,0,1,0,0,1,Cold,Noon,0,Tap,Tap,Medium,0,Occasionally,Average,8,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,0,0,0,1,1,0,1,0,1,1,Rainy/Flooded,Afternoon,0,Bottled,Filtered (RO),Low,0,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,1,0,1,1,1,0,1,0,1,Humid,Afternoon,0,Tap,Tap,High,0,Often,Average,4,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,1,0,1,1,1,1,1,1,1,1,Humid,,0,Tap,Tap,Medium,1,Occasionally,Average,3,0,0,0,1,0,0,0,1,1,Eczema
+1,0,0,1,1,0,1,0,0,1,1,1,Hot/Dry,Morning,0,Filtered (RO),Filtered (RO),Medium,1,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,0,1,1,0,0,0,1,1,1,1,Hot/Dry,Morning,0,Boiled,Tap,Medium,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,0,0,1,0,0,0,0,0,1,1,1,Humid,Afternoon,1,Tap,Tap,High,0,Occasionally,Poor,9,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,0,0,0,1,0,0,0,1,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Poor,9,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,0,1,1,0,1,0,1,0,1,Humid,Noon,0,Filtered (RO),Tap,Medium,1,Occasionally,Poor,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,1,1,0,1,0,0,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,0,Occasionally,Poor,2,0,0,0,1,0,0,0,0,1,Fungal infection
+1,1,0,0,1,0,0,0,1,0,0,1,Cold,Morning,0,Tap,Tap,Medium,0,Occasionally,Poor,5,0,0,0,1,0,0,0,0,0,Fungal infection
+0,0,1,1,1,0,0,0,0,0,1,0,Cold,,0,Filtered (RO),Bottled,High,1,Never,Good,1,0,0,0,0,0,0,0,0,1,Melanoma
+1,0,0,1,1,0,1,1,1,0,1,1,Humid,Morning,0,Tap,Tap,Medium,0,Never,Good,4,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,0,1,0,0,0,1,1,1,0,1,1,Humid,Noon,1,Bottled,Tap,High,0,Occasionally,Average,2,0,1,0,0,0,0,0,0,1,Melanoma
+1,1,0,1,0,1,0,0,1,0,1,0,Hot/Dry,Morning,0,Boiled,Tap,Low,1,Often,Poor,8,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,0,0,0,1,1,0,0,1,Rainy/Flooded,Noon,0,Bottled,Tap,Medium,1,Occasionally,Average,4,0,0,0,0,0,1,0,0,1,Acne
+0,1,1,1,0,1,0,1,0,1,0,0,Humid,Morning,0,Tap,Bottled,High,0,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,0,0,1,0,0,1,0,1,Hot/Dry,Noon,0,Bottled,Tap,Low,0,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Eczema
+1,1,0,1,0,0,0,1,0,0,1,1,Cold,Morning,0,Tap,Bottled,Medium,0,Never,Good,4,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,0,0,0,1,1,0,0,1,1,Rainy/Flooded,Afternoon,0,Tap,Tap,High,0,Never,Average,5,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,0,1,1,1,1,0,1,0,1,Cold,Morning,0,Tap,Boiled,Medium,1,Occasionally,Good,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,0,1,0,1,0,0,0,1,Rainy/Flooded,Noon,0,Tap,Filtered (RO),High,0,Never,Average,5,1,0,0,1,0,0,0,0,0,Fungal infection
+1,1,0,0,1,1,0,0,1,0,1,1,Humid,,0,Filtered (RO),Boiled,Low,1,Never,Good,11,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,1,0,0,1,1,1,1,1,Humid,Afternoon,0,Tap,Filtered (RO),Low,1,Often,Average,3,0,0,0,1,0,0,0,1,1,Eczema
+1,0,0,1,0,1,0,0,0,1,0,1,Cold,Noon,0,Tap,Filtered (RO),Low,0,Never,Average,7,0,0,0,0,0,0,0,0,0,Acne
+0,0,0,0,1,0,1,1,0,0,1,0,Rainy/Flooded,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,1,0,0,1,1,1,0,0,1,1,Hot/Dry,Noon,0,Tap,Tap,Medium,0,Occasionally,Average,2,0,0,0,1,0,0,0,1,1,Eczema
+1,0,1,0,1,0,0,0,0,0,0,1,Hot/Dry,Afternoon,0,Filtered (RO),Bottled,Medium,1,Occasionally,Good,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,1,1,1,0,0,0,1,1,1,1,Hot/Dry,,0,Tap,Tap,High,1,Occasionally,Poor,11,0,0,0,1,0,0,0,1,0,Eczema
+1,1,1,1,0,1,0,1,1,0,0,1,Rainy/Flooded,Afternoon,1,Boiled,Tap,Medium,0,Occasionally,Average,3,0,0,1,0,0,0,0,0,1,Drug Reaction
+1,0,1,1,0,1,0,1,1,1,0,1,Cold,Noon,0,Boiled,Boiled,Medium,1,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,0,0,0,0,0,0,0,1,Hot/Dry,Afternoon,0,Tap,Tap,High,0,Often,Average,4,0,0,0,0,0,0,0,0,1,Drug Reaction
+0,1,0,1,0,1,1,1,1,1,1,0,Humid,Noon,1,Tap,Bottled,Medium,1,Often,Good,3,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,0,0,0,0,0,1,0,1,1,1,Hot/Dry,Morning,0,Tap,Boiled,Low,0,Never,Poor,10,0,0,0,0,0,0,0,0,0,Acne
+1,1,1,1,1,0,1,1,0,0,0,1,Cold,Noon,0,Boiled,Filtered (RO),Low,0,Never,Average,5,0,0,0,0,0,0,0,0,0,Allergy
+0,0,0,0,0,1,0,1,0,0,1,0,Rainy/Flooded,,0,Tap,Boiled,High,1,Often,Average,4,0,0,0,0,0,0,0,0,1,Melanoma
+0,0,0,0,0,0,0,0,1,0,1,0,Rainy/Flooded,Morning,0,Tap,Tap,High,0,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,1,1,1,0,0,0,1,0,Humid,Afternoon,0,Tap,Tap,High,0,Occasionally,Poor,8,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,0,1,1,0,1,0,1,1,Humid,Morning,0,Tap,Tap,Low,0,Occasionally,Average,11,0,0,0,1,0,0,0,1,0,Eczema
+1,1,0,0,0,1,1,0,0,0,1,1,Hot/Dry,Noon,0,Tap,Tap,High,0,Never,Good,7,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,0,0,1,0,0,0,1,1,0,Hot/Dry,Morning,0,Boiled,Boiled,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,0,0,0,1,0,0,1,1,Rainy/Flooded,Noon,0,Tap,Bottled,High,1,Occasionally,Poor,13,1,0,0,1,0,0,0,0,0,Fungal infection
+1,0,1,0,0,0,0,1,0,1,1,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Impetigo
+0,1,0,1,1,1,0,0,1,1,0,0,Cold,Noon,0,Boiled,Tap,Medium,0,Occasionally,Average,4,0,1,0,0,0,0,0,0,1,Melanoma
+0,1,1,1,0,1,1,0,1,0,0,0,Cold,Afternoon,0,Boiled,Bottled,Medium,1,Often,Average,7,0,1,0,0,0,0,0,0,0,Melanoma
+0,0,1,1,1,1,1,1,1,1,0,0,Humid,Afternoon,1,Tap,Tap,High,0,Occasionally,Average,1,1,0,1,1,0,0,0,0,1,Fungal infection
+0,1,1,0,1,0,1,1,0,0,1,0,Rainy/Flooded,,1,Tap,Tap,Medium,0,Never,Average,6,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,1,1,1,1,1,1,0,0,0,1,Cold,Morning,0,Tap,Tap,High,1,Occasionally,Good,8,0,0,0,1,0,0,0,0,0,Eczema
+1,1,0,1,0,1,1,1,1,1,0,1,Rainy/Flooded,Noon,1,Bottled,Bottled,Medium,1,Often,Average,7,1,0,1,0,0,0,0,0,0,Fungal infection
+1,1,0,1,1,1,0,1,0,1,0,1,Hot/Dry,Morning,0,Tap,Filtered (RO),Low,1,Often,Poor,2,0,0,0,0,0,0,0,0,1,Impetigo
+0,0,0,1,1,0,1,1,1,0,0,0,Humid,,1,Bottled,Boiled,High,1,Occasionally,Average,14,0,0,0,0,1,1,0,0,0,Acne
+1,1,0,1,1,0,0,1,1,1,0,1,Hot/Dry,,0,Filtered (RO),Boiled,Low,0,Never,Average,13,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,0,1,1,0,1,0,0,1,1,0,0,Cold,Noon,0,Filtered (RO),Tap,Medium,1,Often,Average,14,0,0,0,0,0,1,1,0,0,Acne
+1,1,0,0,0,1,1,1,0,0,0,1,Humid,Afternoon,0,Tap,Tap,High,0,Occasionally,Average,7,1,0,0,1,0,0,0,0,0,Fungal infection
+1,0,1,1,1,0,0,1,0,1,0,1,Hot/Dry,Noon,0,Tap,Boiled,Medium,1,Never,Poor,13,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,0,0,0,1,1,1,0,1,1,1,Humid,Afternoon,0,Tap,Tap,High,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,1,1,1,1,0,1,1,0,Humid,Morning,0,Tap,Boiled,Medium,1,Occasionally,Good,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,1,0,0,0,1,1,0,1,Hot/Dry,Afternoon,0,Filtered (RO),Bottled,Medium,1,Occasionally,Poor,5,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,0,0,0,1,0,0,0,1,Hot/Dry,Morning,0,Bottled,Filtered (RO),High,1,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Fungal infection
+1,1,0,0,1,0,1,1,0,0,0,1,Humid,Afternoon,0,Filtered (RO),Boiled,Medium,0,Occasionally,Poor,1,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,0,0,0,1,1,1,0,0,1,1,Humid,Afternoon,0,Boiled,Boiled,Low,0,Often,Average,13,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,1,1,0,0,0,1,1,1,Rainy/Flooded,Afternoon,0,Tap,Boiled,Low,1,Often,Poor,2,0,0,0,0,0,0,0,0,1,Allergy
+1,0,1,1,0,1,0,1,0,1,0,1,Humid,Morning,0,Tap,Tap,Medium,1,Often,Good,7,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,1,1,1,0,0,0,1,0,1,Rainy/Flooded,Noon,0,Tap,Tap,Low,0,Often,Average,10,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,0,0,1,1,0,0,1,1,1,Humid,Noon,0,Filtered (RO),Tap,Medium,1,Never,Poor,3,1,0,0,0,0,0,0,0,1,Fungal infection
+1,0,1,1,0,0,1,1,0,1,0,1,Humid,Noon,0,Bottled,Filtered (RO),Medium,1,Occasionally,Good,5,1,0,0,0,0,0,0,0,0,Fungal infection
+1,1,0,1,1,1,0,0,0,1,1,1,Rainy/Flooded,Morning,1,Filtered (RO),Tap,Low,0,Occasionally,Good,8,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,1,1,1,0,0,1,1,1,Humid,,0,Tap,Boiled,Medium,1,Often,Average,13,0,0,0,1,0,0,0,1,0,Eczema
+0,1,0,0,1,1,1,1,1,1,0,0,Hot/Dry,Noon,0,Tap,Tap,Medium,0,Occasionally,Poor,13,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,1,1,0,1,0,1,1,1,Hot/Dry,Noon,1,Filtered (RO),Filtered (RO),Medium,0,Often,Good,8,0,0,1,0,0,0,0,0,0,Fungal infection
+1,1,0,0,0,1,0,1,1,0,0,1,Rainy/Flooded,Noon,0,Tap,Tap,Low,0,Occasionally,Poor,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,1,1,0,0,0,1,1,1,1,Humid,Noon,0,Boiled,Boiled,Low,0,Often,Average,5,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,0,0,1,0,1,0,1,1,Rainy/Flooded,Afternoon,0,Boiled,Filtered (RO),Medium,1,Never,Average,13,0,0,0,0,0,1,0,0,0,Acne
+1,0,0,0,0,1,1,0,1,0,0,1,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,0,Never,Poor,2,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,1,1,1,1,1,0,1,0,1,Hot/Dry,,0,Tap,Tap,Medium,1,Often,Average,9,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,0,0,0,1,1,0,0,1,Hot/Dry,Noon,0,Tap,Boiled,Medium,1,Never,Good,1,0,0,0,0,0,0,0,0,1,Impetigo
+0,1,1,0,1,1,0,0,0,0,1,0,Hot/Dry,,0,Tap,Tap,High,1,Often,Good,11,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,1,1,1,1,0,1,0,1,0,1,Humid,,1,Tap,Tap,Medium,0,Never,Average,2,0,0,1,1,0,0,0,1,1,Eczema
+1,1,1,0,0,0,0,1,1,1,1,0,Hot/Dry,Morning,0,Tap,Bottled,Medium,1,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,0,0,1,0,1,1,0,1,0,1,Humid,,0,Filtered (RO),Boiled,Medium,0,Occasionally,Poor,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,0,1,1,0,1,1,0,0,0,1,Cold,Morning,0,Filtered (RO),Bottled,High,0,Occasionally,Average,12,0,0,0,0,0,0,0,1,0,Eczema
+1,1,0,0,0,1,0,1,1,0,1,1,Hot/Dry,Afternoon,0,Tap,Tap,High,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,1,1,1,0,0,0,1,0,1,1,Humid,Noon,0,Tap,Tap,Low,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,1,0,1,0,0,1,0,0,1,Rainy/Flooded,,0,Tap,Boiled,Medium,1,Never,Good,5,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,1,0,0,1,1,0,1,1,Hot/Dry,,0,Tap,Filtered (RO),High,0,Never,Good,5,0,0,0,0,0,0,0,0,0,Allergy
+1,1,0,0,1,1,1,1,0,1,1,1,Humid,Afternoon,0,Boiled,Boiled,Medium,1,Occasionally,Poor,8,0,0,0,0,0,0,0,1,0,Eczema
+1,0,0,0,0,0,0,0,1,1,0,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,0,0,0,0,0,1,1,0,0,Cold,Noon,0,Tap,Tap,High,0,Often,Good,11,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,1,1,0,0,1,0,1,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,1,1,0,1,0,1,1,0,0,1,Cold,Noon,0,Boiled,Tap,Medium,1,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Impetigo
+0,0,1,1,0,1,0,0,0,0,0,0,Humid,Morning,0,Filtered (RO),Tap,Medium,0,Occasionally,Poor,12,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,0,1,0,1,1,0,1,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,0,Never,Good,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,0,0,0,0,1,0,1,1,Humid,Noon,0,Filtered (RO),Bottled,Medium,0,Occasionally,Good,12,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,0,1,0,0,0,0,1,1,Cold,,0,Boiled,Tap,Low,0,Often,Average,3,0,0,0,0,0,0,0,0,1,Fungal infection
+1,0,1,0,0,0,0,1,0,0,0,1,Humid,Afternoon,1,Bottled,Filtered (RO),Medium,1,Often,Average,13,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,1,0,0,1,0,0,1,1,Hot/Dry,Afternoon,0,Tap,Boiled,High,1,Occasionally,Average,2,0,0,0,1,0,0,0,0,1,Fungal infection
+1,0,1,1,1,1,1,1,0,0,0,1,Humid,Morning,1,Boiled,Filtered (RO),High,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Psoriasis
+0,1,1,1,0,0,1,1,1,1,1,0,Hot/Dry,,0,Bottled,Tap,Medium,1,Often,Poor,1,0,0,0,0,0,0,0,0,1,Melanoma
+1,0,1,1,1,1,0,1,1,1,0,1,Hot/Dry,,1,Bottled,Boiled,Medium,0,Occasionally,Poor,9,0,0,1,0,0,0,0,1,0,Eczema
+1,1,0,1,1,1,1,1,1,1,1,1,Hot/Dry,Noon,0,Filtered (RO),Filtered (RO),High,0,Never,Good,11,0,0,0,0,0,0,0,0,0,Dermatitis
+0,1,0,0,0,0,1,1,0,0,0,0,Hot/Dry,Afternoon,1,Filtered (RO),Boiled,Medium,0,Never,Average,7,0,1,0,0,0,0,0,0,0,Melanoma
+0,0,1,0,1,1,1,0,0,1,0,0,Hot/Dry,Afternoon,1,Tap,Boiled,High,1,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,0,1,0,0,1,1,0,1,Hot/Dry,Morning,0,Boiled,Bottled,Medium,0,Often,Poor,10,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,0,1,0,0,1,0,0,1,Humid,Noon,1,Filtered (RO),Filtered (RO),Medium,0,Occasionally,Poor,13,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,0,1,0,0,0,1,1,0,1,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,0,Never,Good,12,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,0,1,0,0,0,1,0,1,Hot/Dry,Morning,0,Tap,Filtered (RO),Medium,0,Never,Average,11,0,0,0,1,0,0,0,1,0,Eczema
+1,0,1,0,0,0,1,1,0,1,0,1,Rainy/Flooded,Noon,0,Boiled,Tap,High,1,Often,Average,4,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,1,0,1,1,1,0,0,1,1,Humid,Morning,0,Boiled,Boiled,Medium,0,Often,Good,3,0,0,0,0,0,0,0,0,1,Allergy
+1,0,0,1,0,1,0,0,1,0,1,1,Humid,Morning,0,Tap,Tap,High,0,Occasionally,Good,6,0,0,0,0,0,0,0,0,0,Dermatitis
+0,0,0,0,1,0,0,1,1,0,1,0,Hot/Dry,Morning,0,Boiled,Tap,Low,1,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,0,1,0,0,0,1,1,1,Hot/Dry,,1,Filtered (RO),Boiled,High,1,Never,Average,9,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,1,0,1,1,0,1,1,1,Hot/Dry,Noon,0,Boiled,Filtered (RO),Low,1,Often,Good,4,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,0,1,0,1,0,1,0,1,1,1,1,Hot/Dry,,0,Tap,Tap,Medium,0,Often,Average,10,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,0,1,0,1,1,1,1,1,1,0,0,Hot/Dry,Noon,1,Tap,Tap,Medium,0,Occasionally,Good,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,1,1,1,0,1,1,0,1,Hot/Dry,Noon,1,Bottled,Boiled,Medium,0,Often,Average,11,0,0,0,0,0,0,0,0,0,Allergy
+0,0,0,1,1,1,1,1,0,1,1,0,Hot/Dry,Noon,1,Tap,Tap,Low,0,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,1,1,1,1,0,0,0,1,1,Hot/Dry,Noon,0,Boiled,Boiled,High,1,Never,Good,9,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,1,0,0,0,0,1,1,1,Humid,Morning,1,Tap,Tap,High,0,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Melanoma
+1,0,0,0,1,1,1,0,1,0,0,1,Hot/Dry,Afternoon,0,Filtered (RO),Boiled,Medium,0,Never,Good,2,0,0,0,0,0,0,0,0,1,Acne
+1,1,0,1,1,0,0,1,1,1,1,0,Hot/Dry,Morning,0,Tap,Boiled,High,0,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,1,0,1,0,0,1,1,1,0,Humid,Afternoon,0,Filtered (RO),Tap,High,0,Occasionally,Good,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,1,0,0,1,1,1,1,0,0,1,Humid,Afternoon,0,Tap,Tap,Low,1,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,1,1,0,0,0,1,0,1,1,Hot/Dry,Morning,0,Tap,Tap,Low,0,Occasionally,Good,5,0,0,0,0,0,0,0,0,0,Chickenpox
+0,0,1,1,1,1,0,0,0,1,0,0,Rainy/Flooded,Morning,0,Tap,Boiled,Medium,0,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,0,0,1,1,1,0,1,0,0,1,Humid,Afternoon,0,Tap,Filtered (RO),Low,0,Never,Average,10,0,0,0,1,0,0,0,1,0,Eczema
+1,0,1,0,1,1,0,0,0,0,1,1,Hot/Dry,Noon,0,Bottled,Filtered (RO),Medium,0,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Eczema
+1,1,1,1,1,1,1,1,1,0,0,1,Rainy/Flooded,Morning,0,Bottled,Tap,High,0,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,1,1,0,0,0,1,0,0,0,0,0,Cold,,0,Tap,Tap,Medium,1,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,1,0,0,0,0,0,1,1,Hot/Dry,Morning,0,Boiled,Tap,Medium,0,Often,Average,2,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,1,1,1,1,1,0,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Low,1,Often,Good,7,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,1,0,1,0,1,0,1,1,Rainy/Flooded,,0,Filtered (RO),Filtered (RO),High,1,Often,Average,8,0,0,0,0,1,1,1,0,0,Acne
+1,0,1,0,0,1,0,1,0,0,1,1,Rainy/Flooded,Morning,0,Boiled,Boiled,Medium,1,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,0,0,0,0,1,1,0,0,1,Hot/Dry,Morning,1,Bottled,Filtered (RO),High,1,Never,Poor,6,0,0,0,0,1,1,0,0,0,Acne
+1,1,0,1,0,0,1,0,1,1,1,1,Hot/Dry,Morning,0,Tap,Tap,High,0,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,0,1,1,0,1,0,1,1,Hot/Dry,Noon,0,Boiled,Bottled,High,0,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,0,0,1,1,0,0,0,1,1,Humid,Morning,0,Tap,Boiled,Low,0,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,0,0,0,0,0,1,0,1,1,Humid,Afternoon,0,Bottled,Bottled,Low,1,Never,Poor,11,0,0,0,0,0,0,0,1,0,Eczema
+1,1,0,1,1,0,1,0,0,0,0,1,Hot/Dry,Morning,0,Tap,Filtered (RO),Medium,1,Often,Average,1,0,0,0,1,0,0,0,0,1,Fungal infection
+0,0,0,0,1,0,1,0,0,0,1,0,Humid,Noon,0,Filtered (RO),Tap,Medium,1,Never,Good,4,0,1,0,0,0,0,0,0,1,Melanoma
+1,1,1,1,1,1,0,0,1,1,1,1,Rainy/Flooded,,0,Filtered (RO),Tap,Medium,0,Often,Poor,13,0,0,0,0,0,0,0,1,0,Eczema
+0,1,1,0,0,0,0,0,0,0,0,0,Hot/Dry,Afternoon,0,Filtered (RO),Boiled,High,1,Often,Average,7,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,0,0,0,1,1,0,1,0,1,Hot/Dry,Afternoon,0,Tap,Tap,High,0,Occasionally,Poor,1,0,0,0,0,0,0,0,0,1,Dermatitis
+1,0,0,0,0,1,0,0,0,0,1,0,Rainy/Flooded,Noon,0,Bottled,Tap,Medium,0,Often,Poor,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,0,0,0,0,1,0,0,1,Rainy/Flooded,Afternoon,0,Tap,Filtered (RO),Medium,0,Occasionally,Good,1,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,0,0,1,0,1,0,1,0,0,1,Humid,Noon,0,Filtered (RO),Filtered (RO),Medium,0,Often,Average,11,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,1,1,1,0,1,0,0,1,Humid,Noon,0,Tap,Filtered (RO),High,0,Occasionally,Good,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,1,0,1,0,0,1,0,1,Hot/Dry,Morning,0,Tap,Tap,High,0,Often,Good,4,0,0,0,0,0,0,0,0,1,Allergy
+0,0,1,1,1,1,1,0,0,1,0,0,Humid,,1,Filtered (RO),Tap,High,0,Occasionally,Good,3,1,0,1,0,0,0,0,0,1,Fungal infection
+1,0,0,0,0,1,1,0,0,1,1,1,Humid,Noon,1,Tap,Filtered (RO),Medium,1,Often,Average,12,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,0,1,1,0,1,1,1,1,1,Hot/Dry,Morning,0,Tap,Bottled,Low,1,Occasionally,Good,5,0,0,0,1,0,0,0,0,0,Eczema
+1,1,0,0,0,0,0,1,1,1,1,0,Hot/Dry,Noon,0,Tap,Boiled,Medium,1,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Allergy
+0,1,1,1,1,1,1,1,1,1,0,0,Hot/Dry,Noon,0,Tap,Bottled,Low,0,Often,Average,10,0,1,0,0,0,0,0,0,0,Melanoma
+0,1,0,1,1,1,0,0,1,1,1,0,Hot/Dry,Afternoon,0,Boiled,Boiled,Medium,1,Often,Good,10,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,1,0,0,1,1,1,0,1,Hot/Dry,Afternoon,0,Boiled,Filtered (RO),Medium,1,Occasionally,Good,12,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,0,1,1,0,0,0,0,0,0,1,Hot/Dry,Afternoon,1,Tap,Tap,High,0,Never,Good,14,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,1,0,0,1,1,1,0,1,Hot/Dry,Morning,1,Tap,Filtered (RO),Low,0,Occasionally,Average,14,0,0,1,1,0,0,0,1,0,Eczema
+1,1,0,1,0,1,1,1,0,0,1,1,Hot/Dry,Noon,0,Tap,Filtered (RO),Medium,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,0,1,1,0,0,1,1,1,Rainy/Flooded,Noon,0,Tap,Filtered (RO),High,0,Often,Good,11,0,0,0,1,0,0,0,0,0,Eczema
+1,0,0,1,0,0,1,1,0,1,1,0,Humid,Morning,0,Filtered (RO),Tap,Medium,1,Often,Poor,10,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,0,0,1,1,1,0,0,1,Humid,Noon,0,Filtered (RO),Filtered (RO),Medium,1,Never,Average,3,0,0,0,0,0,1,0,0,1,Acne
+1,0,0,1,1,0,0,1,1,1,1,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Average,5,0,0,0,1,0,0,0,1,0,Eczema
+1,1,0,1,0,0,1,0,0,1,0,1,Humid,Morning,0,Tap,Filtered (RO),Low,1,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,1,1,0,1,0,0,1,1,Hot/Dry,Noon,0,Tap,Tap,Medium,1,Often,Average,5,0,0,0,1,0,0,0,1,0,Eczema
+0,0,1,0,1,1,0,0,1,1,0,0,Humid,Morning,0,Boiled,Boiled,Medium,1,Never,Average,9,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,0,0,1,0,0,1,0,0,1,Humid,Morning,0,Bottled,Tap,High,0,Often,Good,11,0,0,0,0,1,0,1,0,0,Acne
+1,1,0,1,0,0,1,0,0,0,0,1,Rainy/Flooded,Morning,1,Tap,Tap,High,1,Occasionally,Good,12,1,0,1,1,0,0,0,0,0,Fungal infection
+1,0,0,1,0,0,1,1,1,0,1,1,Humid,,0,Tap,Tap,High,0,Never,Poor,10,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,0,1,0,0,0,0,0,1,0,1,Hot/Dry,Afternoon,0,Boiled,Filtered (RO),High,0,Occasionally,Good,11,0,0,0,0,1,0,0,0,0,Acne
+1,1,0,1,0,0,0,1,1,1,0,1,Hot/Dry,,0,Bottled,Tap,Medium,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Acne
+1,0,1,0,1,0,1,1,0,1,0,1,Hot/Dry,Noon,0,Tap,Tap,Medium,0,Occasionally,Poor,1,0,0,0,1,0,0,0,1,1,Eczema
+1,0,0,1,1,1,0,0,1,0,0,1,Humid,Morning,0,Tap,Filtered (RO),High,1,Never,Average,10,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,0,1,1,0,0,0,1,1,Humid,Noon,0,Tap,Tap,Low,0,Never,Average,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,0,0,0,0,1,1,1,0,1,Hot/Dry,Noon,1,Filtered (RO),Bottled,High,0,Often,Average,1,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,0,0,0,0,0,1,1,1,0,1,Cold,Afternoon,0,Tap,Bottled,Medium,0,Never,Good,6,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,1,1,1,1,1,1,0,0,1,Humid,Morning,1,Tap,Filtered (RO),High,1,Occasionally,Average,12,0,0,1,1,0,0,0,1,0,Eczema
+0,0,0,0,1,0,0,0,0,0,0,0,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,0,1,0,0,1,1,0,0,1,Hot/Dry,Morning,0,Tap,Boiled,High,1,Occasionally,Poor,10,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,1,1,1,1,1,0,0,1,Hot/Dry,Noon,0,Boiled,Tap,Medium,0,Often,Poor,7,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,1,0,1,1,0,0,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Poor,1,0,0,0,0,0,0,0,0,1,Allergy
+1,0,1,1,1,1,1,1,1,1,1,1,Hot/Dry,Noon,0,Tap,Tap,Low,0,Often,Poor,10,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,0,0,0,1,0,0,1,0,Hot/Dry,Noon,0,Filtered (RO),Bottled,High,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,1,1,1,1,0,1,0,0,1,1,Hot/Dry,Noon,0,Tap,Tap,High,0,Never,Average,9,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,0,0,0,1,1,0,0,1,Hot/Dry,Noon,1,Bottled,Filtered (RO),High,0,Never,Average,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,0,0,0,1,0,1,1,0,Rainy/Flooded,Afternoon,1,Filtered (RO),Boiled,Medium,1,Occasionally,Average,1,0,0,1,0,0,0,0,0,1,Drug Reaction
+1,0,0,0,1,1,0,1,0,0,0,1,Hot/Dry,,1,Tap,Tap,High,1,Occasionally,Poor,9,0,0,1,1,0,0,0,0,0,Fungal infection
+1,0,0,0,1,1,1,0,0,0,1,1,Humid,,0,Boiled,Tap,Low,0,Often,Good,8,0,0,0,0,0,0,0,0,0,Chickenpox
+0,0,1,0,1,0,0,1,1,1,0,0,Humid,Afternoon,0,Tap,Bottled,Medium,0,Occasionally,Poor,5,1,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,0,0,1,0,1,1,1,0,1,Cold,Noon,0,Bottled,Filtered (RO),Medium,1,Occasionally,Poor,6,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,0,1,1,1,0,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Medium,0,Never,Poor,7,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,0,1,1,0,1,1,0,1,1,Hot/Dry,Noon,0,Filtered (RO),Tap,High,0,Occasionally,Poor,4,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,0,1,0,1,1,0,0,0,0,1,Cold,Noon,0,Tap,Tap,High,1,Occasionally,Good,14,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,0,1,1,0,1,0,0,1,1,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,1,Occasionally,Good,14,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,0,1,0,0,1,1,1,0,1,Rainy/Flooded,Morning,0,Boiled,Tap,Medium,0,Occasionally,Good,6,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,0,1,1,0,1,1,0,1,Hot/Dry,,1,Boiled,Tap,High,0,Never,Good,7,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,0,0,0,1,1,1,0,0,1,Hot/Dry,Noon,0,Tap,Boiled,High,0,Occasionally,Average,11,0,0,0,1,0,0,0,0,0,Fungal infection
+0,0,0,0,1,0,1,0,1,1,1,0,Humid,Afternoon,0,Tap,Tap,Low,1,Often,Poor,6,0,1,0,0,0,0,0,0,0,Melanoma
+0,1,1,1,1,0,0,1,0,0,1,0,Cold,Afternoon,0,Boiled,Tap,High,0,Occasionally,Poor,11,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,1,0,1,0,0,0,1,1,Humid,,1,Bottled,Filtered (RO),Low,0,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Impetigo
+0,1,0,0,1,0,0,1,1,0,1,0,Humid,Afternoon,0,Tap,Boiled,Medium,0,Often,Good,12,0,1,0,0,0,0,0,0,0,Melanoma
+0,0,0,1,0,1,1,0,1,0,1,0,Hot/Dry,Afternoon,0,Tap,Tap,High,0,Occasionally,Good,6,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,0,1,0,0,0,0,0,1,Rainy/Flooded,Morning,0,Tap,Filtered (RO),High,1,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Allergy
+1,0,1,1,1,1,0,0,1,0,1,1,Hot/Dry,Noon,0,Boiled,Tap,High,1,Never,Average,5,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,0,1,1,1,0,0,1,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,1,1,0,1,0,0,0,1,1,1,Humid,Afternoon,0,Tap,Tap,Medium,0,Never,Good,7,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,0,0,1,1,1,0,1,1,Humid,Noon,0,Boiled,Boiled,Medium,0,Often,Average,4,1,0,0,0,0,0,0,0,1,Fungal infection
+1,1,1,1,1,1,1,0,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Low,0,Often,Good,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,0,1,0,1,0,1,1,0,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,0,1,0,1,0,1,0,1,Humid,Morning,1,Tap,Tap,High,1,Often,Average,12,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,1,0,0,1,1,1,1,1,Hot/Dry,Afternoon,0,Tap,Boiled,High,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,0,1,0,0,1,0,0,1,1,Humid,Morning,0,Tap,Tap,Low,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Acne
+1,0,1,1,0,0,0,1,1,0,0,1,Hot/Dry,Morning,0,Filtered (RO),Tap,High,0,Often,Poor,7,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,1,0,0,0,0,1,1,1,Humid,Morning,0,Tap,Tap,High,1,Often,Good,11,1,0,0,1,0,0,0,0,0,Fungal infection
+0,1,1,0,0,0,0,1,0,0,1,0,Humid,,0,Filtered (RO),Tap,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Melanoma
+0,1,1,0,1,0,0,1,1,1,0,0,Hot/Dry,Afternoon,0,Boiled,Filtered (RO),Medium,0,Often,Average,3,0,0,0,0,0,0,1,0,1,Acne
+1,0,0,1,0,0,0,0,1,0,1,1,Hot/Dry,Noon,0,Boiled,Filtered (RO),Low,0,Occasionally,Average,14,0,0,0,0,0,0,0,1,0,Eczema
+0,1,0,0,1,0,1,0,0,1,0,0,Hot/Dry,Noon,0,Tap,Tap,Medium,1,Occasionally,Poor,6,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,0,1,0,0,0,1,0,0,0,Hot/Dry,Noon,0,Tap,Tap,High,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,1,1,0,0,0,0,1,1,1,Cold,Afternoon,0,Tap,Tap,Low,1,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,0,1,1,1,1,1,0,0,1,1,0,Hot/Dry,Afternoon,1,Tap,Tap,High,1,Never,Good,13,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,1,1,1,0,1,1,1,1,1,Rainy/Flooded,Morning,0,Tap,Tap,Medium,0,Occasionally,Average,14,1,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,1,1,0,0,0,1,0,0,0,Hot/Dry,Morning,0,Filtered (RO),Boiled,Medium,1,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,0,1,0,1,1,0,1,0,1,Humid,Morning,0,Tap,Bottled,High,0,Occasionally,Good,2,1,0,0,1,0,0,0,0,1,Fungal infection
+1,1,1,0,1,1,1,1,1,1,1,1,Rainy/Flooded,Afternoon,0,Tap,Bottled,Medium,1,Occasionally,Average,3,1,0,0,1,0,0,0,0,1,Fungal infection
+1,1,0,1,0,0,1,1,0,0,0,1,Humid,Afternoon,0,Tap,Boiled,High,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,0,1,1,1,1,0,1,1,Humid,Noon,0,Filtered (RO),Filtered (RO),Medium,0,Occasionally,Good,13,0,0,0,0,0,0,0,0,0,Allergy
+1,1,0,1,0,0,1,0,1,0,0,1,Humid,Morning,1,Tap,Boiled,Medium,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,1,1,1,0,1,0,1,1,Hot/Dry,Morning,0,Filtered (RO),Tap,Medium,0,Never,Average,12,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,0,0,1,1,0,0,1,0,1,Cold,,0,Tap,Filtered (RO),Low,1,Never,Good,12,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,0,1,0,1,1,1,1,1,Rainy/Flooded,Noon,0,Boiled,Tap,High,0,Often,Average,2,0,0,0,0,0,0,0,0,1,Allergy
+1,0,1,1,0,1,0,1,1,1,1,1,Cold,Afternoon,0,Boiled,Tap,Medium,1,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Psoriasis
+0,0,0,0,1,1,1,0,1,0,0,0,Hot/Dry,Afternoon,0,Tap,Boiled,Medium,0,Often,Average,1,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,1,1,1,0,0,1,1,1,1,Rainy/Flooded,Noon,0,Tap,Tap,High,1,Never,Average,5,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,0,0,0,0,0,0,0,1,1,Cold,Morning,0,Tap,Tap,Medium,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Chickenpox
+0,1,1,0,0,1,0,0,0,0,0,0,Hot/Dry,Morning,0,Tap,Bottled,Medium,0,Occasionally,Average,5,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,0,0,0,0,0,0,1,0,0,1,Hot/Dry,Afternoon,0,Filtered (RO),Tap,High,0,Occasionally,Poor,8,0,0,0,0,1,0,0,0,0,Acne
+1,1,1,1,0,0,1,1,1,0,0,1,Rainy/Flooded,Afternoon,0,Boiled,Tap,Medium,1,Never,Average,8,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,0,0,1,1,1,0,0,0,0,1,Humid,Afternoon,0,Filtered (RO),Bottled,High,0,Never,Good,11,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,0,1,1,1,1,0,0,1,Rainy/Flooded,Noon,1,Boiled,Filtered (RO),Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,1,0,0,0,1,1,0,0,1,Hot/Dry,Morning,0,Tap,Filtered (RO),High,0,Never,Poor,2,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,0,0,1,0,1,1,0,0,1,Rainy/Flooded,,1,Tap,Tap,Low,1,Often,Good,8,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,0,1,1,1,0,0,1,1,0,1,1,Hot/Dry,Afternoon,0,Boiled,Tap,Medium,0,Occasionally,Poor,12,0,0,0,0,0,0,0,0,0,Dermatitis
+0,0,0,1,1,1,1,1,0,1,0,0,Hot/Dry,Noon,0,Tap,Boiled,Medium,0,Never,Poor,5,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,1,1,1,0,1,1,1,1,Hot/Dry,,0,Filtered (RO),Filtered (RO),Medium,0,Never,Good,1,0,0,0,0,0,0,0,0,1,Dermatitis
+0,1,0,0,0,0,0,0,1,1,0,0,Rainy/Flooded,Afternoon,0,Tap,Filtered (RO),Low,1,Occasionally,Poor,7,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,1,1,1,0,0,0,0,0,1,Humid,Noon,0,Tap,Tap,Medium,1,Never,Average,13,1,0,0,1,0,0,0,0,0,Fungal infection
+0,0,1,0,1,1,0,0,0,1,0,0,Humid,Afternoon,0,Bottled,Tap,High,0,Often,Poor,6,1,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,1,0,0,1,1,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Bottled,Medium,0,Often,Average,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,1,1,1,1,0,0,0,1,Rainy/Flooded,Afternoon,0,Bottled,Tap,Low,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,0,1,1,0,0,1,0,0,1,Hot/Dry,Morning,0,Bottled,Filtered (RO),Medium,0,Occasionally,Average,14,0,0,0,0,0,0,0,1,0,Eczema
+1,0,0,1,1,0,1,1,0,0,1,1,Rainy/Flooded,Noon,0,Boiled,Tap,Medium,0,Never,Average,14,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,1,1,0,1,0,0,1,1,Humid,,1,Filtered (RO),Filtered (RO),Low,1,Occasionally,Good,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,0,1,0,1,0,0,1,1,1,1,Hot/Dry,Morning,0,Filtered (RO),Bottled,Low,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Chickenpox
+0,0,1,0,1,0,1,0,1,0,0,0,Humid,Noon,0,Boiled,Filtered (RO),Low,1,Occasionally,Good,10,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,0,1,0,1,0,1,0,0,1,1,Hot/Dry,Noon,0,Tap,Tap,High,0,Occasionally,Average,12,0,0,0,0,1,0,0,0,0,Acne
+0,1,0,1,1,1,0,1,0,1,1,0,Rainy/Flooded,Noon,0,Tap,Filtered (RO),Medium,1,Occasionally,Average,7,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,1,1,1,1,1,1,0,0,1,Humid,Afternoon,0,Filtered (RO),Boiled,Medium,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,0,1,0,0,1,0,1,1,1,Hot/Dry,,0,Tap,Tap,Medium,0,Never,Average,10,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,1,0,1,0,0,0,0,1,Rainy/Flooded,Morning,0,Tap,Boiled,Medium,0,Occasionally,Good,1,0,0,0,1,0,0,0,0,1,Eczema
+1,1,1,0,0,1,1,1,1,1,0,1,Hot/Dry,Morning,0,Tap,Filtered (RO),High,0,Occasionally,Good,9,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,0,0,1,1,0,0,1,0,0,1,Humid,Morning,0,Filtered (RO),Boiled,Medium,0,Often,Good,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,1,0,1,1,0,1,0,0,1,Cold,,0,Boiled,Filtered (RO),Medium,1,Never,Average,5,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,1,0,1,1,1,1,1,0,1,Humid,Afternoon,1,Tap,Tap,High,1,Often,Poor,2,0,0,0,0,1,1,1,0,1,Acne
+1,1,0,0,0,1,1,1,1,0,1,1,Hot/Dry,Noon,0,Bottled,Tap,Medium,0,Occasionally,Good,14,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,0,0,0,0,0,0,0,1,1,0,Cold,Afternoon,0,Filtered (RO),Tap,High,0,Never,Poor,12,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,1,0,0,0,0,0,1,0,1,Humid,,0,Boiled,Bottled,Medium,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,1,0,0,0,0,1,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Boiled,High,0,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,1,1,0,0,0,1,1,1,1,Hot/Dry,,1,Boiled,Filtered (RO),Medium,0,Often,Average,8,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,1,1,0,1,1,1,0,1,Rainy/Flooded,Noon,0,Tap,Tap,Medium,1,Never,Poor,14,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,1,0,1,0,0,1,1,1,Humid,Afternoon,0,Boiled,Tap,Medium,1,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,0,0,0,1,0,0,1,0,1,1,Humid,Noon,1,Tap,Boiled,Medium,1,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,0,1,1,1,0,0,0,0,1,Rainy/Flooded,Afternoon,0,Boiled,Tap,Low,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,0,1,0,0,0,1,1,1,Rainy/Flooded,Afternoon,0,Bottled,Tap,High,1,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,1,0,0,0,1,1,1,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),High,1,Often,Poor,2,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,0,1,0,1,1,1,0,1,1,Hot/Dry,Afternoon,0,Tap,Tap,Low,0,Often,Good,14,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,0,0,0,1,1,0,1,1,Hot/Dry,Morning,0,Boiled,Tap,High,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,1,1,0,1,0,1,0,1,1,Rainy/Flooded,Noon,1,Tap,Tap,Low,1,Often,Average,12,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,0,1,0,1,0,0,0,1,1,Hot/Dry,,1,Boiled,Tap,Low,0,Often,Average,4,0,0,0,0,0,0,0,0,1,Chickenpox
+0,1,1,1,1,1,1,0,0,1,1,0,Humid,,0,Tap,Bottled,Medium,0,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,1,0,1,1,1,0,0,0,1,Rainy/Flooded,Morning,0,Tap,Tap,Low,0,Occasionally,Average,14,0,0,0,1,0,0,0,1,0,Eczema
+1,0,1,0,0,0,0,0,1,0,0,1,Rainy/Flooded,Morning,0,Bottled,Tap,High,0,Occasionally,Poor,14,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,1,1,1,1,1,1,0,1,Hot/Dry,Morning,1,Filtered (RO),Tap,Medium,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Acne
+1,0,1,0,1,0,0,1,0,1,1,1,Rainy/Flooded,Afternoon,0,Boiled,Boiled,Medium,1,Never,Poor,10,1,0,0,0,0,0,0,0,0,Fungal infection
+1,0,1,0,0,1,1,1,1,1,0,1,Hot/Dry,Afternoon,0,Tap,Tap,Medium,1,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,0,0,0,0,0,1,0,1,Rainy/Flooded,Morning,0,Filtered (RO),Filtered (RO),Low,1,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,1,0,0,1,1,0,0,1,1,Hot/Dry,Noon,0,Filtered (RO),Tap,High,0,Occasionally,Good,14,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,0,0,1,0,0,1,0,1,1,0,0,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Medium,1,Never,Good,9,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,1,0,1,0,1,1,1,0,1,Rainy/Flooded,Afternoon,0,Filtered (RO),Tap,Medium,0,Often,Average,10,0,0,0,0,0,0,0,0,0,Allergy
+0,1,1,1,1,0,1,0,1,1,0,0,Hot/Dry,Noon,0,Filtered (RO),Boiled,Medium,0,Often,Average,4,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,1,1,0,1,0,1,0,0,1,Hot/Dry,Noon,0,Tap,Boiled,High,0,Never,Average,1,0,0,0,0,1,0,0,0,1,Acne
+1,0,1,1,0,0,0,1,1,1,0,1,Rainy/Flooded,Noon,0,Tap,Tap,Medium,0,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,1,0,1,1,1,1,1,0,1,Rainy/Flooded,Noon,0,Boiled,Filtered (RO),Low,0,Occasionally,Good,8,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,0,1,1,0,0,0,1,1,1,Humid,Noon,1,Tap,Bottled,High,0,Often,Good,14,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,0,1,1,0,0,1,1,1,Humid,Afternoon,0,Filtered (RO),Tap,Low,0,Never,Good,10,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,1,0,0,1,0,1,0,1,0,Humid,,0,Tap,Boiled,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,0,1,0,0,1,0,1,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Medium,1,Often,Good,14,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,0,1,0,1,1,0,1,1,Hot/Dry,Afternoon,0,Boiled,Bottled,Medium,0,Often,Good,2,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,1,0,1,1,0,1,0,0,1,1,Hot/Dry,Morning,0,Tap,Boiled,High,1,Often,Poor,4,0,0,0,0,1,1,1,0,1,Acne
+1,1,1,0,0,1,0,1,1,1,0,1,Cold,Noon,1,Tap,Bottled,Medium,0,Often,Poor,1,0,0,1,0,0,0,0,0,1,Drug Reaction
+1,0,1,0,1,1,0,1,1,1,1,1,Humid,Morning,0,Tap,Filtered (RO),Low,0,Never,Good,7,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,1,0,1,1,1,1,0,1,Humid,Morning,0,Filtered (RO),Tap,Medium,1,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,0,1,0,1,0,1,1,1,0,0,1,Humid,Afternoon,0,Boiled,Bottled,Low,0,Occasionally,Average,11,1,0,0,0,0,0,0,0,0,Fungal infection
+1,1,0,0,0,0,0,0,0,0,0,0,Cold,,1,Tap,Tap,Medium,0,Never,Average,14,0,0,0,0,0,0,0,0,0,Impetigo
+0,0,0,0,0,1,1,0,0,0,1,0,Hot/Dry,Morning,0,Boiled,Tap,High,1,Often,Average,8,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,0,0,0,0,0,1,0,1,0,1,Humid,Noon,0,Tap,Boiled,Medium,0,Never,Good,9,0,0,0,0,0,0,0,0,0,Acne
+1,0,1,1,0,1,0,1,1,0,0,1,Humid,Afternoon,0,Tap,Boiled,Low,1,Occasionally,Average,12,0,0,0,1,0,0,0,1,0,Eczema
+1,1,0,1,1,0,1,0,0,1,0,0,Humid,Morning,0,Bottled,Bottled,Medium,0,Often,Average,9,0,0,0,0,0,0,0,0,0,Chickenpox
+0,1,1,0,0,1,0,1,1,1,1,0,Hot/Dry,Noon,0,Tap,Tap,Low,0,Never,Good,3,0,1,0,0,0,0,0,0,1,Melanoma
+1,1,0,1,1,1,1,1,1,0,0,1,Rainy/Flooded,Afternoon,1,Tap,Boiled,Low,0,Often,Average,5,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,0,1,1,1,1,1,1,1,Cold,Afternoon,0,Tap,Boiled,Medium,0,Often,Average,6,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,0,1,1,1,1,1,1,1,1,1,0,Humid,Morning,0,Tap,Tap,High,1,Occasionally,Average,6,0,0,0,0,1,1,0,0,0,Acne
+1,0,0,0,1,0,0,0,0,1,0,1,Humid,Noon,0,Tap,Tap,Medium,1,Never,Good,10,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,1,0,0,0,1,0,0,1,Cold,Afternoon,1,Tap,Tap,Medium,0,Occasionally,Average,8,0,0,1,1,0,0,0,0,0,Fungal infection
+0,1,0,0,0,0,0,1,1,1,0,0,Rainy/Flooded,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Good,6,0,0,0,0,0,0,0,0,0,Acne
+0,0,0,0,0,1,1,1,0,1,1,0,Hot/Dry,Morning,0,Tap,Bottled,Medium,1,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,0,0,1,1,1,1,1,1,1,Humid,Afternoon,0,Filtered (RO),Filtered (RO),Medium,0,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,1,1,0,1,0,0,1,1,0,1,Humid,Morning,0,Tap,Boiled,Medium,0,Often,Good,7,1,0,0,1,0,0,0,0,0,Fungal infection
+0,0,1,0,1,1,0,1,0,1,1,0,Humid,Afternoon,0,Tap,Bottled,Medium,0,Never,Average,14,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,1,0,1,0,0,0,1,1,Rainy/Flooded,Morning,0,Filtered (RO),Tap,Medium,0,Often,Average,14,0,0,0,0,0,0,0,1,0,Eczema
+1,0,1,0,1,1,0,0,0,1,1,1,Cold,,1,Bottled,Boiled,Medium,1,Never,Poor,8,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,0,0,0,1,0,1,0,1,Cold,Noon,0,Tap,Tap,Medium,1,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,0,0,0,1,0,1,1,1,1,1,Humid,Noon,0,Boiled,Boiled,Medium,0,Often,Good,7,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,0,0,0,1,0,0,1,0,1,Hot/Dry,Morning,0,Filtered (RO),Tap,Low,0,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Drug Reaction
+0,0,1,0,1,1,0,1,0,0,0,0,Cold,Noon,0,Filtered (RO),Bottled,Medium,0,Never,Average,8,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,1,1,1,1,1,1,1,1,Rainy/Flooded,,0,Filtered (RO),Tap,Medium,0,Occasionally,Good,1,0,0,0,0,0,0,0,0,1,Acne
+1,1,0,1,0,0,0,0,1,0,0,1,Hot/Dry,,0,Tap,Tap,Medium,0,Often,Poor,1,0,0,0,0,0,0,0,0,1,Dermatitis
+1,0,1,0,0,1,1,1,1,1,1,1,Cold,Noon,0,Tap,Boiled,High,1,Occasionally,Good,14,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,0,1,0,0,1,1,1,1,Rainy/Flooded,Noon,0,Filtered (RO),Tap,High,0,Occasionally,Poor,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,0,0,1,0,1,0,0,1,1,1,Humid,Afternoon,0,Tap,Filtered (RO),Low,0,Occasionally,Poor,10,0,0,0,0,0,0,0,0,0,Acne
+0,0,1,0,1,1,1,1,1,1,1,0,Humid,,0,Bottled,Tap,Medium,0,Often,Average,9,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,1,0,1,1,0,1,1,1,Hot/Dry,Noon,0,Tap,Boiled,Medium,0,Often,Poor,12,0,0,0,1,0,0,0,1,0,Eczema
+1,1,1,1,0,1,0,0,0,0,0,1,Hot/Dry,Noon,0,Tap,Tap,Medium,0,Occasionally,Average,14,0,0,0,1,0,0,0,1,0,Eczema
+1,0,0,0,1,0,1,0,0,1,0,1,Hot/Dry,Noon,0,Boiled,Tap,High,1,Often,Good,4,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,0,1,1,0,0,0,0,1,1,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,1,1,0,0,0,0,0,1,Hot/Dry,Morning,0,Filtered (RO),Tap,Medium,1,Occasionally,Good,12,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,0,1,0,0,0,1,0,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Medium,0,Never,Average,5,0,0,0,0,0,0,0,0,0,Allergy
+1,1,0,1,0,0,0,1,0,0,0,1,Hot/Dry,Noon,0,Bottled,Tap,Medium,0,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Chickenpox
+0,1,1,1,1,0,0,1,0,1,0,0,Humid,Afternoon,0,Boiled,Tap,High,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,1,0,1,0,0,0,0,1,1,Cold,Morning,0,Filtered (RO),Tap,High,0,Never,Average,6,0,0,0,0,0,0,0,1,0,Eczema
+1,0,0,0,1,0,1,1,1,1,1,1,Hot/Dry,Noon,1,Filtered (RO),Filtered (RO),Low,0,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Dermatitis
+0,1,1,0,0,1,1,1,0,1,0,0,Hot/Dry,Noon,0,Bottled,Boiled,Medium,0,Often,Poor,12,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,1,1,1,0,1,0,1,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,1,Occasionally,Good,3,0,0,0,0,0,0,0,0,1,Impetigo
+0,1,1,1,1,0,1,1,1,0,1,0,Humid,Morning,0,Tap,Filtered (RO),High,1,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,0,1,0,0,0,0,1,0,Hot/Dry,Noon,0,Tap,Filtered (RO),High,0,Often,Good,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,0,0,0,1,0,0,0,0,0,1,Humid,Noon,0,Tap,Tap,Medium,0,Never,Average,14,1,0,0,1,0,0,0,0,0,Fungal infection
+1,1,0,1,1,1,1,1,0,1,1,1,Hot/Dry,Noon,0,Filtered (RO),Boiled,Medium,0,Occasionally,Good,2,0,0,0,0,0,0,0,0,1,Impetigo
+0,0,1,0,0,0,0,0,1,0,0,0,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Medium,0,Often,Average,13,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,1,0,1,0,1,1,1,1,Humid,Afternoon,0,Filtered (RO),Filtered (RO),High,0,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,1,0,0,0,1,0,1,1,0,1,Humid,Afternoon,0,Tap,Tap,Medium,1,Occasionally,Good,10,0,0,0,0,0,1,0,0,0,Acne
+1,0,1,1,0,1,0,0,1,1,1,1,Cold,Noon,0,Boiled,Filtered (RO),High,0,Never,Poor,3,0,1,0,0,0,0,0,0,1,Melanoma
+1,1,0,1,0,0,1,0,1,1,0,1,Hot/Dry,Afternoon,1,Tap,Filtered (RO),High,0,Often,Good,12,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,1,1,0,1,1,0,1,0,1,Humid,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Average,2,0,0,0,0,0,0,0,1,1,Eczema
+1,0,0,1,0,0,0,0,1,0,1,1,Humid,Morning,0,Filtered (RO),Tap,High,0,Often,Good,1,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,1,1,1,0,0,1,1,1,1,Hot/Dry,Morning,0,Tap,Bottled,High,1,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,1,0,0,0,0,0,0,1,1,Humid,Noon,1,Tap,Tap,Medium,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,0,1,0,0,1,1,0,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Medium,0,Often,Average,6,0,0,0,1,0,0,0,1,0,Eczema
+1,0,0,0,0,0,1,1,1,1,1,1,Cold,Afternoon,0,Boiled,Bottled,Low,1,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,1,0,1,1,0,0,1,1,1,Hot/Dry,Afternoon,0,Bottled,Boiled,Medium,0,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Acne
+0,1,1,0,1,0,1,1,0,0,0,0,Humid,Noon,0,Filtered (RO),Filtered (RO),High,1,Occasionally,Average,5,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,0,1,1,1,0,0,0,1,0,1,Hot/Dry,Noon,0,Tap,Boiled,High,0,Often,Average,3,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,1,0,1,1,1,0,1,0,1,Cold,Morning,0,Tap,Boiled,Low,0,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,1,0,1,0,0,0,1,0,1,Humid,Noon,0,Boiled,Tap,Medium,1,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Impetigo
+0,0,1,1,0,0,0,1,0,0,1,0,Humid,Noon,0,Boiled,Tap,Medium,0,Never,Good,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,0,0,1,0,0,1,0,1,Hot/Dry,Morning,0,Tap,Tap,High,0,Often,Good,5,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,1,1,1,1,1,0,0,1,Rainy/Flooded,Morning,0,Tap,Bottled,Medium,0,Never,Good,12,0,0,0,1,0,0,0,0,0,Eczema
+1,1,0,1,1,0,1,0,1,1,0,1,Hot/Dry,Noon,0,Boiled,Filtered (RO),High,0,Occasionally,Good,12,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,0,0,0,0,0,1,0,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,1,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,1,0,1,1,1,0,1,1,1,Hot/Dry,,0,Tap,Boiled,Low,1,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Dermatitis
+0,0,1,1,0,0,0,1,0,0,1,0,Hot/Dry,,1,Tap,Tap,Low,1,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,1,0,0,0,1,0,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Medium,1,Never,Poor,9,0,0,0,0,0,1,0,0,0,Acne
+1,1,0,0,1,1,0,0,1,1,1,1,Humid,Noon,0,Boiled,Filtered (RO),Medium,0,Occasionally,Good,5,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,1,1,0,1,1,1,1,1,Humid,Afternoon,0,Bottled,Tap,Low,0,Often,Average,2,1,0,0,0,0,0,0,0,1,Fungal infection
+0,1,1,0,1,0,0,0,1,1,1,0,Hot/Dry,Afternoon,1,Filtered (RO),Boiled,Medium,0,Often,Poor,5,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,0,1,1,0,0,0,1,0,0,1,Rainy/Flooded,Morning,0,Filtered (RO),Tap,High,0,Never,Average,8,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,1,1,0,0,0,0,1,0,0,Humid,Noon,0,Tap,Boiled,Medium,0,Often,Good,12,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,0,0,1,0,1,0,1,1,Humid,Afternoon,0,Filtered (RO),Filtered (RO),High,1,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,0,0,1,1,0,1,0,0,1,Humid,Noon,0,Tap,Tap,Medium,0,Often,Good,2,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,1,0,0,0,1,0,1,1,0,1,Humid,Noon,0,Filtered (RO),Bottled,Medium,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Acne
+1,1,1,1,1,0,0,1,1,1,1,1,Humid,Noon,0,Tap,Filtered (RO),Medium,0,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Acne
+1,1,0,0,0,0,1,1,0,0,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Often,Good,9,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,1,0,0,1,1,1,0,1,1,Hot/Dry,Noon,1,Tap,Tap,High,1,Often,Good,9,0,0,1,1,0,0,0,0,0,Fungal infection
+1,1,0,1,1,1,1,0,1,0,1,1,Rainy/Flooded,Noon,0,Tap,Boiled,Medium,1,Occasionally,Average,8,1,0,0,1,0,0,0,0,0,Fungal infection
+1,0,1,1,0,1,1,0,1,1,1,1,Cold,Morning,0,Tap,Tap,Low,0,Occasionally,Average,8,0,0,0,1,0,0,0,1,0,Eczema
+1,1,1,0,0,1,1,0,0,0,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Psoriasis
+0,0,0,1,1,1,1,1,0,0,0,0,Hot/Dry,Afternoon,0,Bottled,Tap,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,0,1,1,0,1,0,1,0,0,Humid,Noon,0,Tap,Tap,Low,1,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,0,1,1,0,0,0,1,1,1,Humid,Noon,0,Filtered (RO),Boiled,Low,0,Occasionally,Good,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,0,0,0,0,0,0,1,1,0,1,Hot/Dry,Noon,0,Boiled,Tap,High,0,Often,Average,6,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,0,1,1,0,1,1,0,0,1,Hot/Dry,,1,Bottled,Tap,High,0,Never,Average,12,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,1,1,1,1,1,0,0,1,Rainy/Flooded,Noon,1,Filtered (RO),Tap,Medium,1,Occasionally,Poor,9,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,1,1,1,1,1,0,0,0,1,Humid,Noon,0,Boiled,Tap,Low,0,Never,Good,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,0,1,1,0,1,0,0,0,1,Hot/Dry,,0,Tap,Bottled,Low,1,Occasionally,Average,3,0,0,0,1,0,0,0,0,1,Fungal infection
+0,0,1,1,1,0,1,0,1,1,0,0,Hot/Dry,Afternoon,1,Tap,Tap,Low,0,Never,Average,11,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,0,1,1,1,1,0,0,1,1,Hot/Dry,Morning,0,Tap,Bottled,Medium,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,0,1,0,1,1,0,0,1,1,Humid,Afternoon,1,Filtered (RO),Tap,Medium,0,Often,Good,2,1,0,1,0,0,0,0,0,1,Fungal infection
+1,0,0,1,0,0,1,1,0,1,0,1,Hot/Dry,Noon,0,Filtered (RO),Tap,High,0,Often,Average,11,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,0,1,0,0,0,1,1,1,0,1,Hot/Dry,Noon,0,Tap,Boiled,High,0,Occasionally,Poor,2,0,0,0,0,0,0,0,0,1,Allergy
+0,0,1,0,0,0,0,1,1,1,0,0,Rainy/Flooded,Morning,0,Tap,Tap,Medium,0,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Acne
+1,0,1,1,1,0,1,0,1,0,0,1,Hot/Dry,Morning,0,Filtered (RO),Boiled,Medium,1,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,0,1,1,1,0,0,1,1,1,Humid,Afternoon,0,Tap,Bottled,Medium,0,Often,Good,6,0,0,0,1,0,0,0,0,0,Eczema
+0,0,1,1,0,0,1,0,0,1,1,0,Hot/Dry,Noon,0,Filtered (RO),Tap,Medium,1,Often,Good,11,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,0,1,0,0,1,0,1,1,Hot/Dry,Noon,0,Filtered (RO),Tap,High,0,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,0,0,0,1,1,1,1,1,1,1,Hot/Dry,Afternoon,0,Boiled,Boiled,Medium,1,Occasionally,Poor,8,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,1,1,1,0,0,0,1,1,1,Rainy/Flooded,Afternoon,0,Boiled,Tap,High,0,Often,Poor,9,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,1,0,0,1,0,1,1,1,Rainy/Flooded,Morning,1,Boiled,Tap,Medium,0,Never,Average,7,1,0,1,0,0,0,0,0,0,Fungal infection
+1,0,1,0,0,1,0,1,1,0,0,1,Rainy/Flooded,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Psoriasis
+0,0,1,1,1,1,1,1,1,0,1,0,Hot/Dry,Morning,0,Boiled,Tap,Medium,0,Often,Poor,13,0,0,0,0,0,0,1,0,0,Acne
+0,1,0,1,1,0,1,0,1,1,0,0,Humid,Afternoon,0,Filtered (RO),Boiled,Low,1,Often,Average,13,0,0,0,0,0,1,1,0,0,Acne
+1,0,1,1,0,1,0,0,0,1,1,1,Hot/Dry,Afternoon,0,Tap,Tap,High,0,Occasionally,Average,1,0,0,0,0,1,0,0,0,1,Acne
+1,1,0,1,0,0,1,1,0,1,0,1,Hot/Dry,,1,Tap,Tap,Medium,0,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,0,1,0,1,0,0,0,0,0,1,Rainy/Flooded,Morning,0,Tap,Filtered (RO),Medium,1,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Impetigo
+1,0,1,0,0,1,1,0,1,1,0,1,Hot/Dry,Morning,0,Tap,Tap,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,1,1,1,1,0,1,0,1,Hot/Dry,Noon,0,Filtered (RO),Tap,Low,1,Occasionally,Poor,4,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,1,0,1,0,1,0,1,0,1,1,Hot/Dry,Noon,0,Boiled,Boiled,Medium,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Fungal infection
+1,0,0,0,1,1,1,1,1,0,1,1,Hot/Dry,Morning,0,Tap,Tap,Low,1,Often,Good,13,0,0,0,0,0,1,1,0,0,Acne
+1,1,0,1,1,1,1,1,1,0,1,1,Hot/Dry,,1,Tap,Boiled,High,0,Often,Average,2,0,0,0,0,1,0,1,0,1,Acne
+0,1,1,0,0,0,0,1,0,1,1,0,Humid,Morning,0,Bottled,Boiled,Low,0,Never,Poor,12,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,1,0,1,0,0,1,1,1,1,Humid,Noon,0,Tap,Tap,High,0,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,0,1,0,1,0,0,0,1,1,Rainy/Flooded,Afternoon,0,Tap,Filtered (RO),Low,1,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,0,0,0,1,0,0,1,0,Rainy/Flooded,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,1,0,1,0,1,0,0,0,0,1,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Medium,0,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,0,0,0,0,1,0,0,1,Hot/Dry,Morning,0,Tap,Boiled,Medium,1,Occasionally,Average,6,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,0,0,1,1,1,0,1,1,Hot/Dry,Noon,0,Tap,Boiled,Low,1,Often,Average,3,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,1,0,0,0,1,0,1,1,1,1,1,Humid,Morning,0,Tap,Tap,High,1,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,1,1,0,0,1,1,1,1,1,Hot/Dry,Morning,0,Filtered (RO),Filtered (RO),Medium,1,Often,Poor,6,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,0,1,0,1,0,0,1,1,Humid,,0,Filtered (RO),Bottled,Low,0,Often,Good,3,0,0,0,0,0,0,0,0,1,Allergy
+1,1,0,0,0,1,0,1,1,1,1,1,Humid,Morning,0,Tap,Bottled,Medium,0,Never,Good,4,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,1,0,0,1,0,0,1,0,1,1,Humid,Noon,0,Filtered (RO),Filtered (RO),High,1,Occasionally,Average,10,0,0,0,0,1,1,0,0,0,Acne
+1,1,1,1,0,0,1,0,1,1,0,1,Humid,Noon,1,Boiled,Tap,Medium,1,Often,Average,14,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,1,1,0,1,0,1,1,1,Hot/Dry,Noon,0,Tap,Tap,Medium,0,Often,Good,5,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,0,1,0,0,0,1,0,1,Cold,,0,Tap,Bottled,Low,0,Never,Good,9,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,0,1,1,1,1,0,1,0,1,1,Rainy/Flooded,Morning,0,Filtered (RO),Tap,Medium,1,Never,Good,14,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,1,1,1,0,1,1,1,0,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Medium,0,Never,Average,6,0,0,0,0,0,0,0,0,0,Dermatitis
+0,1,1,0,0,0,1,0,1,0,1,0,Rainy/Flooded,,0,Tap,Tap,Low,0,Often,Average,13,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,0,0,1,0,1,0,0,0,1,1,Humid,Noon,0,Filtered (RO),Tap,Medium,0,Never,Average,4,1,0,0,0,0,0,0,0,1,Fungal infection
+1,1,1,0,1,1,0,0,1,1,0,1,Rainy/Flooded,,0,Boiled,Tap,High,0,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Allergy
+1,1,0,0,1,1,0,1,0,1,0,1,Rainy/Flooded,Morning,0,Boiled,Bottled,High,1,Often,Average,11,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,0,1,0,1,1,1,1,0,1,Humid,Noon,0,Filtered (RO),Tap,Medium,0,Never,Good,7,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,0,1,0,0,1,1,1,0,Hot/Dry,Noon,0,Boiled,Filtered (RO),High,1,Occasionally,Poor,2,0,0,0,0,0,0,0,0,1,Allergy
+1,1,0,1,0,0,1,0,0,0,1,1,Hot/Dry,Afternoon,0,Tap,Tap,Low,0,Occasionally,Poor,4,0,0,0,1,0,0,0,1,1,Eczema
+1,0,1,1,0,0,1,1,1,1,1,1,Humid,,0,Filtered (RO),Tap,Medium,0,Often,Good,5,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,0,1,0,1,0,0,1,0,1,Humid,Noon,1,Tap,Tap,High,1,Occasionally,Good,4,0,0,1,1,0,0,0,0,1,Eczema
+1,1,1,0,0,1,1,1,0,0,1,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Medium,0,Occasionally,Good,4,0,0,0,1,0,0,0,0,1,Eczema
+1,0,0,0,1,1,0,0,1,0,1,1,Hot/Dry,Morning,0,Boiled,Tap,Medium,0,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,1,1,1,0,1,0,0,1,Rainy/Flooded,Noon,0,Filtered (RO),Tap,Low,0,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,1,1,0,0,0,0,1,0,Cold,Noon,1,Tap,Tap,Low,0,Never,Average,9,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,0,0,0,1,1,1,0,0,1,Humid,,0,Bottled,Tap,Medium,0,Occasionally,Average,14,0,0,0,0,0,0,0,1,0,Eczema
+1,1,1,1,1,0,0,0,1,1,1,1,Hot/Dry,Afternoon,0,Tap,Bottled,Medium,1,Occasionally,Average,11,0,0,0,0,0,1,0,0,0,Acne
+1,0,0,1,0,1,1,1,0,1,1,1,Hot/Dry,Noon,0,Tap,Bottled,Medium,1,Often,Average,13,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,0,1,1,1,0,1,1,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Often,Average,2,0,0,0,0,0,0,0,0,1,Allergy
+1,1,0,0,0,1,0,1,0,0,0,1,Cold,Morning,0,Boiled,Filtered (RO),High,0,Occasionally,Good,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,0,1,1,1,0,0,1,0,1,Hot/Dry,Morning,0,Boiled,Bottled,High,0,Occasionally,Average,14,0,0,0,0,0,0,0,1,0,Eczema
+1,1,0,0,1,0,1,1,0,0,0,1,Humid,Noon,0,Tap,Tap,Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Dermatitis
+0,1,0,0,0,0,1,0,1,0,0,0,Hot/Dry,,0,Filtered (RO),Boiled,High,0,Often,Good,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,0,1,1,0,0,0,0,1,Humid,Noon,1,Tap,Bottled,High,0,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,0,0,0,0,1,1,1,1,Humid,Noon,0,Boiled,Tap,Medium,0,Occasionally,Poor,7,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,1,1,0,0,0,0,0,1,1,Rainy/Flooded,Morning,0,Tap,Tap,High,1,Occasionally,Average,10,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,1,1,1,0,0,0,1,1,Hot/Dry,,0,Tap,Bottled,Medium,0,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,1,1,1,0,1,0,1,1,Hot/Dry,Afternoon,0,Bottled,Filtered (RO),Medium,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Acne
+1,1,0,1,0,0,0,0,0,0,0,0,Hot/Dry,Morning,1,Tap,Tap,Low,1,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,1,1,1,0,0,1,0,1,0,Cold,Afternoon,0,Tap,Tap,Medium,0,Never,Average,13,0,1,0,0,0,0,0,0,0,Melanoma
+1,1,1,0,1,0,1,0,1,0,1,1,Rainy/Flooded,Noon,0,Filtered (RO),Tap,High,1,Often,Good,10,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,0,1,1,1,0,0,1,1,1,Humid,Morning,0,Bottled,Filtered (RO),Medium,1,Occasionally,Poor,6,1,0,0,0,0,0,0,0,0,Fungal infection
+1,0,1,0,0,0,1,0,1,0,1,1,Humid,Noon,0,Tap,Boiled,Low,1,Never,Average,11,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,0,0,1,1,1,1,1,1,Humid,Noon,0,Tap,Bottled,Low,0,Occasionally,Good,6,1,0,0,1,0,0,0,0,0,Fungal infection
+1,0,0,1,0,0,0,0,0,0,1,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Occasionally,Average,2,0,0,0,0,0,1,0,0,1,Acne
+1,0,0,1,1,1,0,1,0,1,0,1,Cold,,0,Filtered (RO),Filtered (RO),Medium,0,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,0,0,0,1,1,1,0,1,Humid,Afternoon,0,Tap,Filtered (RO),Low,1,Occasionally,Good,8,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,1,0,1,1,1,0,1,1,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Tap,High,0,Occasionally,Good,14,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,1,1,1,0,0,1,1,0,1,Humid,Noon,1,Bottled,Tap,Medium,0,Occasionally,Good,11,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,1,1,0,1,1,1,1,1,Hot/Dry,Noon,0,Tap,Bottled,Medium,0,Occasionally,Poor,7,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,0,0,1,0,1,1,0,1,Hot/Dry,Afternoon,0,Tap,Boiled,High,0,Never,Good,11,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,0,0,0,0,0,0,1,0,1,Rainy/Flooded,Noon,0,Tap,Tap,Medium,1,Often,Average,9,0,0,0,1,0,0,0,1,0,Eczema
+1,0,1,1,0,1,1,1,1,1,1,1,Hot/Dry,Morning,0,Tap,Filtered (RO),High,1,Occasionally,Poor,8,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,1,0,1,1,0,1,1,0,1,Humid,Noon,0,Boiled,Tap,Medium,1,Occasionally,Good,14,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,0,0,1,0,1,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Low,0,Never,Poor,9,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,1,0,0,1,1,1,1,1,1,Hot/Dry,Noon,0,Tap,Filtered (RO),High,1,Occasionally,Poor,9,0,0,0,1,0,0,0,1,0,Eczema
+1,1,1,1,1,0,0,1,0,1,1,1,Hot/Dry,Morning,0,Filtered (RO),Filtered (RO),Low,0,Occasionally,Poor,6,0,0,0,0,0,0,0,0,0,Psoriasis
+0,1,1,0,0,1,0,0,1,1,0,0,Hot/Dry,Afternoon,0,Tap,Bottled,High,1,Occasionally,Good,2,0,0,0,0,1,1,0,0,1,Acne
+1,0,1,1,0,1,1,1,0,0,1,1,Rainy/Flooded,Morning,1,Filtered (RO),Filtered (RO),Medium,1,Often,Average,12,0,0,0,0,0,1,1,0,0,Acne
+1,0,1,0,0,0,1,1,1,0,1,1,Hot/Dry,Noon,0,Tap,Tap,High,0,Never,Average,7,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,0,1,1,0,1,0,0,1,Humid,Morning,0,Boiled,Boiled,Low,1,Occasionally,Poor,3,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,1,0,0,0,1,0,0,0,1,0,Humid,Noon,0,Bottled,Tap,Medium,0,Often,Good,13,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,1,1,1,0,0,0,0,1,1,Humid,Afternoon,0,Filtered (RO),Tap,Medium,0,Often,Average,7,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,1,0,0,0,1,1,1,1,0,1,Cold,Noon,0,Bottled,Tap,Low,0,Never,Average,9,0,0,0,0,0,0,0,0,0,Allergy
+1,0,0,0,0,1,1,0,0,0,0,1,Rainy/Flooded,Morning,0,Tap,Tap,Medium,0,Occasionally,Good,10,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,0,0,1,0,1,1,0,1,Hot/Dry,,0,Tap,Boiled,Low,1,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,0,0,1,1,1,1,1,0,1,Hot/Dry,,0,Filtered (RO),Tap,Medium,0,Never,Average,10,0,0,0,0,0,0,0,0,0,Acne
+1,0,1,0,0,1,1,1,0,1,1,0,Hot/Dry,,0,Filtered (RO),Boiled,Low,0,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Dermatitis
+1,0,0,1,0,1,0,1,0,0,0,1,Humid,Morning,0,Tap,Filtered (RO),Medium,0,Never,Average,14,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,0,0,0,1,0,1,1,1,Hot/Dry,Noon,1,Tap,Tap,High,1,Often,Poor,13,0,0,1,1,0,0,0,1,0,Eczema
+1,1,1,1,0,0,0,0,0,0,1,1,Humid,,0,Tap,Boiled,Medium,1,Occasionally,Average,6,0,0,0,0,0,1,0,0,0,Acne
+1,0,1,1,1,1,1,0,0,0,1,1,Humid,Afternoon,0,Tap,Tap,High,1,Never,Average,13,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,1,1,0,1,1,1,0,1,1,Hot/Dry,Morning,0,Tap,Tap,Medium,1,Never,Average,6,0,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,1,1,0,0,1,1,0,0,1,Rainy/Flooded,Morning,0,Boiled,Filtered (RO),Medium,0,Often,Average,9,1,0,0,0,0,0,0,0,0,Fungal infection
+1,1,1,0,1,1,0,0,0,0,1,1,Hot/Dry,Noon,0,Tap,Tap,Medium,0,Never,Average,13,0,0,0,1,0,0,0,0,0,Fungal infection
+1,1,1,1,0,0,1,1,1,0,0,1,Hot/Dry,,0,Tap,Tap,High,0,Occasionally,Poor,9,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,0,1,1,1,0,1,0,1,1,0,0,Rainy/Flooded,Noon,0,Filtered (RO),Filtered (RO),High,0,Occasionally,Average,13,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,1,0,0,0,0,0,1,1,1,1,Humid,Noon,0,Filtered (RO),Filtered (RO),Medium,1,Occasionally,Average,5,0,0,0,0,0,0,0,1,0,Eczema
+1,1,0,1,0,1,1,0,1,1,1,1,Humid,Morning,0,Boiled,Tap,Low,0,Occasionally,Good,14,0,0,0,0,0,0,0,0,0,Eczema
+0,1,1,1,1,0,1,1,1,1,1,0,Humid,Afternoon,0,Filtered (RO),Bottled,Medium,1,Never,Good,5,0,0,0,0,0,1,0,0,0,Acne
+1,1,0,1,1,0,0,1,1,1,0,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Medium,0,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,1,0,0,0,0,1,0,0,1,Rainy/Flooded,Noon,0,Boiled,Boiled,Medium,0,Never,Good,8,0,0,0,0,0,0,0,0,0,Acne
+1,1,0,1,0,1,0,1,1,0,1,1,Rainy/Flooded,Afternoon,0,Filtered (RO),Tap,Medium,0,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Allergy
+0,1,0,1,1,0,0,1,1,1,1,0,Humid,,1,Tap,Filtered (RO),High,1,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,0,0,0,0,1,1,1,1,Hot/Dry,Morning,1,Filtered (RO),Boiled,Medium,1,Occasionally,Good,6,0,0,1,0,0,0,0,0,0,Fungal infection
+1,0,0,1,0,1,0,0,0,0,0,1,Humid,Noon,0,Bottled,Filtered (RO),High,1,Never,Good,3,0,0,0,0,0,0,0,0,1,Dermatitis
+0,0,0,1,1,0,0,1,0,1,1,0,Hot/Dry,Noon,0,Tap,Boiled,Low,0,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,1,1,0,0,1,0,1,0,0,1,Hot/Dry,Afternoon,0,Tap,Tap,High,1,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,0,0,0,0,1,1,0,0,1,Cold,Noon,1,Tap,Tap,Medium,0,Often,Poor,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,0,1,1,1,0,1,0,1,Hot/Dry,Afternoon,1,Tap,Tap,High,0,Occasionally,Average,1,0,0,1,0,0,0,0,0,1,Drug Reaction
+1,1,0,0,0,1,0,0,0,1,0,1,Cold,Afternoon,0,Tap,Tap,High,1,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Impetigo
+1,0,0,0,1,0,1,1,0,1,1,1,Humid,Noon,0,Filtered (RO),Boiled,Medium,0,Occasionally,Poor,3,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,0,1,1,0,0,1,1,1,0,1,Hot/Dry,,0,Tap,Tap,High,1,Often,Average,2,0,0,0,0,0,0,0,0,1,Impetigo
+1,1,0,1,1,0,1,0,1,0,0,1,Humid,Noon,0,Bottled,Bottled,High,0,Often,Good,14,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,0,1,0,0,0,1,0,0,0,1,Rainy/Flooded,Morning,0,Boiled,Bottled,Medium,0,Occasionally,Good,2,1,0,0,0,0,0,0,0,1,Fungal infection
+0,1,1,0,0,1,0,0,0,0,0,0,Rainy/Flooded,Afternoon,1,Filtered (RO),Tap,High,1,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,0,1,1,1,1,0,1,1,Rainy/Flooded,Afternoon,0,Boiled,Tap,High,0,Occasionally,Average,14,0,0,0,0,0,0,0,1,0,Eczema
+1,0,1,1,1,0,1,1,1,0,0,1,Humid,Noon,0,Tap,Boiled,Low,1,Occasionally,Average,8,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,0,1,0,1,0,0,1,1,Humid,,1,Tap,Bottled,Medium,0,Often,Average,9,0,0,1,1,0,0,0,1,0,Eczema
+1,1,0,1,1,1,1,0,1,0,0,1,Rainy/Flooded,,0,Filtered (RO),Tap,Low,1,Occasionally,Average,3,0,0,0,0,0,0,0,1,1,Eczema
+0,1,1,0,1,1,0,0,0,1,1,0,Hot/Dry,Noon,0,Boiled,Tap,Low,0,Never,Poor,14,0,1,0,0,0,0,0,0,0,Melanoma
+0,0,0,1,1,1,0,1,1,0,1,0,Humid,,0,Boiled,Filtered (RO),Medium,0,Often,Average,3,0,0,0,0,0,0,0,0,1,Psoriasis
+1,0,1,0,0,0,1,1,1,1,0,1,Hot/Dry,Morning,0,Tap,Filtered (RO),High,0,Often,Good,6,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,0,0,0,1,0,1,1,1,Cold,Morning,0,Bottled,Tap,Medium,0,Occasionally,Poor,11,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,0,0,0,1,0,1,0,1,1,Cold,Morning,0,Tap,Boiled,Low,1,Occasionally,Good,10,0,0,0,1,0,0,0,0,0,Eczema
+1,1,1,0,0,0,1,1,0,0,1,1,Hot/Dry,,0,Boiled,Tap,Medium,0,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Fungal infection
+1,1,0,0,0,1,1,0,0,0,0,1,Rainy/Flooded,Afternoon,0,Bottled,Tap,Medium,0,Often,Poor,6,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,1,1,1,1,1,1,1,1,Cold,Morning,0,Tap,Tap,High,0,Often,Average,12,0,0,0,1,0,0,0,1,0,Eczema
+1,1,0,0,0,0,0,1,1,1,1,1,Hot/Dry,Noon,0,Boiled,Tap,Low,0,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Fungal infection
+1,1,0,0,1,0,0,0,0,0,1,1,Humid,Afternoon,0,Tap,Tap,Medium,1,Occasionally,Average,11,0,0,0,0,0,1,0,0,0,Acne
+1,0,0,1,1,1,1,1,1,1,1,1,Cold,Morning,0,Tap,Tap,Low,1,Often,Average,4,0,0,0,1,0,0,0,0,1,Fungal infection
+1,0,1,1,0,1,1,1,1,0,0,1,Hot/Dry,,0,Filtered (RO),Tap,High,0,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,0,0,0,0,1,1,0,1,Humid,Afternoon,0,Filtered (RO),Tap,High,1,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Dermatitis
+1,0,0,1,1,1,1,1,1,0,1,1,Hot/Dry,Noon,0,Bottled,Tap,High,0,Often,Average,1,0,0,0,0,1,0,1,0,1,Acne
+0,1,1,0,1,0,0,1,1,1,0,0,Cold,,0,Filtered (RO),Bottled,Medium,0,Occasionally,Average,3,0,0,0,0,0,0,0,0,1,Melanoma
+1,1,0,0,1,1,1,0,1,0,1,1,Cold,Noon,0,Tap,Tap,High,1,Occasionally,Good,7,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,1,1,0,0,1,0,0,0,0,1,Cold,,0,Boiled,Tap,High,0,Often,Average,13,0,0,0,0,0,0,0,0,0,Fungal infection
+1,1,0,1,1,1,0,1,1,1,1,1,Humid,Afternoon,1,Bottled,Filtered (RO),Low,1,Often,Average,7,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,0,1,1,0,0,1,1,1,Rainy/Flooded,Afternoon,0,Tap,Bottled,High,1,Occasionally,Average,11,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,1,0,1,1,0,0,1,0,1,Rainy/Flooded,Morning,0,Bottled,Tap,Low,0,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,0,1,1,1,0,1,1,0,1,1,Hot/Dry,,0,Tap,Filtered (RO),Medium,1,Occasionally,Average,14,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,0,0,0,1,1,1,0,1,1,1,Rainy/Flooded,Noon,0,Boiled,Boiled,Low,1,Occasionally,Average,1,0,0,0,0,0,0,0,1,1,Eczema
+1,0,0,1,0,1,0,0,1,0,0,1,Hot/Dry,Morning,0,Tap,Filtered (RO),Medium,0,Never,Average,11,0,0,0,0,0,0,0,0,0,Drug Reaction
+0,0,1,1,1,0,0,0,0,1,1,0,Humid,Morning,0,Tap,Tap,Low,1,Often,Poor,8,0,0,0,0,0,0,0,0,0,Melanoma
+1,0,1,1,1,0,1,1,1,1,1,1,Hot/Dry,Noon,0,Tap,Filtered (RO),Low,0,Occasionally,Good,10,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,0,1,0,0,0,0,1,1,Hot/Dry,Noon,0,Filtered (RO),Tap,High,1,Occasionally,Poor,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,0,1,1,0,1,0,1,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),High,1,Occasionally,Good,10,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,1,0,0,0,1,0,0,0,1,1,Humid,,0,Tap,Boiled,High,0,Often,Good,12,0,0,0,0,0,0,0,0,0,Melanoma
+1,1,1,1,0,1,0,1,0,0,1,1,Hot/Dry,Morning,0,Filtered (RO),Tap,Medium,0,Occasionally,Poor,10,0,0,0,0,0,0,0,1,0,Eczema
+1,0,0,0,0,1,1,0,1,0,0,1,Rainy/Flooded,Afternoon,1,Bottled,Boiled,Low,1,Never,Good,13,0,0,0,0,0,1,0,0,0,Acne
+1,1,0,1,0,1,1,0,1,0,1,1,Hot/Dry,Morning,0,Tap,Tap,Medium,0,Never,Average,10,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,1,1,0,1,0,1,1,0,1,Hot/Dry,,0,Tap,Boiled,Medium,0,Occasionally,Poor,2,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,0,0,0,0,0,1,0,1,0,1,Humid,Afternoon,0,Tap,Tap,High,0,Occasionally,Poor,10,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,1,0,0,1,1,0,0,0,1,Rainy/Flooded,Noon,0,Tap,Tap,Low,0,Occasionally,Poor,3,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,0,1,1,0,0,1,0,0,1,1,Hot/Dry,Afternoon,0,Boiled,Tap,Low,0,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Drug Reaction
+1,0,1,1,0,1,1,0,1,0,1,1,Humid,Noon,0,Boiled,Bottled,High,0,Never,Average,1,0,0,0,0,0,0,0,0,1,Psoriasis
+1,1,1,1,1,1,1,0,1,0,1,1,Rainy/Flooded,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Good,4,1,0,0,0,0,0,0,0,1,Fungal infection
+0,1,0,0,0,1,0,1,1,0,1,0,Humid,Afternoon,0,Tap,Tap,High,1,Occasionally,Average,5,0,0,0,0,1,1,0,0,0,Acne
+1,0,0,0,0,1,1,0,0,1,1,1,Hot/Dry,Noon,0,Boiled,Tap,Medium,0,Never,Poor,3,0,0,0,0,0,0,0,0,1,Chickenpox
+1,0,1,1,1,1,0,1,0,0,0,0,Hot/Dry,Noon,0,Filtered (RO),Filtered (RO),Medium,0,Never,Average,14,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,0,1,0,0,1,1,1,0,1,Rainy/Flooded,Noon,1,Boiled,Filtered (RO),High,0,Never,Average,11,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,0,0,0,1,1,1,0,1,1,Hot/Dry,Afternoon,0,Filtered (RO),Tap,Medium,0,Never,Average,10,0,1,0,0,0,0,0,0,0,Melanoma
+1,0,0,0,1,0,1,0,1,1,1,1,Rainy/Flooded,Noon,0,Boiled,Tap,Medium,0,Occasionally,Average,2,0,0,0,0,0,0,0,0,1,Allergy
+1,1,1,1,1,1,0,0,0,0,0,1,Humid,Morning,0,Filtered (RO),Tap,Medium,0,Never,Poor,13,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,1,1,1,1,0,0,1,0,0,1,Cold,Afternoon,0,Tap,Tap,Medium,0,Occasionally,Good,6,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,0,1,0,1,0,0,1,1,Rainy/Flooded,Afternoon,0,Bottled,Tap,High,1,Never,Average,8,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,0,1,0,0,1,0,1,1,0,1,1,Cold,Morning,0,Filtered (RO),Boiled,Medium,1,Often,Poor,7,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,1,1,0,1,1,1,0,1,Hot/Dry,Morning,0,Filtered (RO),Tap,Medium,1,Often,Average,11,0,0,0,0,0,0,0,1,0,Eczema
+1,0,0,0,0,0,1,0,0,0,0,1,Rainy/Flooded,Morning,0,Tap,Tap,Medium,1,Occasionally,Good,14,0,0,0,1,0,0,0,0,0,Eczema
+1,1,1,0,1,0,1,0,0,0,0,1,Humid,Noon,0,Filtered (RO),Tap,High,1,Occasionally,Average,1,0,0,0,0,0,0,0,0,1,Dermatitis
+1,1,0,1,1,1,0,1,1,1,0,1,Humid,Noon,0,Filtered (RO),Bottled,Medium,0,Occasionally,Average,4,0,0,0,0,0,0,0,0,1,Acne
+1,1,0,1,1,0,0,1,0,1,1,1,Humid,Afternoon,1,Tap,Bottled,Low,1,Occasionally,Good,3,0,0,1,1,0,0,0,0,1,Eczema
+1,0,0,0,1,1,1,0,0,0,1,1,Rainy/Flooded,Afternoon,0,Tap,Boiled,High,0,Never,Poor,6,1,0,0,1,0,0,0,0,0,Fungal infection
+1,0,0,1,0,0,1,1,1,1,1,0,Cold,Afternoon,0,Filtered (RO),Tap,Medium,1,Occasionally,Average,9,0,0,0,0,0,0,0,0,0,Drug Reaction
+1,1,0,0,1,1,0,1,1,0,0,1,Rainy/Flooded,Noon,0,Boiled,Tap,High,1,Occasionally,Poor,9,0,0,0,0,0,0,0,0,0,Chickenpox
+1,1,1,0,1,0,0,1,0,0,0,1,Humid,Afternoon,0,Filtered (RO),Tap,Medium,0,Often,Poor,7,0,0,0,0,0,0,1,0,0,Acne
+1,1,1,1,0,0,1,0,0,1,0,1,Humid,Noon,0,Tap,Tap,High,0,Never,Average,12,0,0,0,0,1,0,0,0,0,Acne
+1,0,0,0,0,0,1,1,0,1,1,1,Rainy/Flooded,,0,Filtered (RO),Filtered (RO),Medium,0,Often,Good,9,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,1,0,1,1,0,1,0,1,0,Hot/Dry,Afternoon,0,Tap,Boiled,Medium,1,Often,Average,8,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,0,0,1,0,1,0,0,1,Hot/Dry,Morning,0,Tap,Boiled,Medium,1,Never,Good,5,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,0,0,1,1,1,0,0,0,1,Hot/Dry,Afternoon,0,Tap,Boiled,Medium,1,Occasionally,Poor,9,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,0,0,1,0,0,0,1,0,1,1,Hot/Dry,Noon,0,Tap,Tap,Medium,0,Never,Good,14,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,1,1,0,1,0,1,0,1,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),Medium,1,Occasionally,Good,7,0,0,0,0,0,1,0,0,0,Acne
+1,1,0,1,0,1,1,0,0,0,1,1,Hot/Dry,Morning,0,Tap,Tap,High,0,Occasionally,Average,5,0,0,0,1,0,0,0,1,0,Eczema
+1,0,0,1,0,0,1,1,1,1,1,1,Hot/Dry,Morning,0,Tap,Tap,High,1,Occasionally,Good,8,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,1,1,1,0,0,0,0,1,1,0,Hot/Dry,,0,Tap,Boiled,Low,0,Occasionally,Good,7,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,0,1,0,0,0,1,1,1,1,1,Cold,Morning,0,Filtered (RO),Tap,High,0,Often,Average,9,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,1,0,0,0,0,0,0,0,1,0,Humid,Afternoon,0,Tap,Tap,Medium,0,Never,Good,10,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,1,1,1,1,0,1,0,0,0,Hot/Dry,Noon,0,Tap,Tap,Low,1,Often,Good,1,0,0,0,0,0,0,0,0,1,Drug Reaction
+0,1,1,0,0,1,1,0,1,0,0,0,Humid,Afternoon,0,Boiled,Filtered (RO),High,1,Occasionally,Average,13,0,0,0,0,0,0,0,0,0,Psoriasis
+1,0,0,1,0,0,1,1,0,1,1,1,Hot/Dry,Afternoon,0,Tap,Boiled,Medium,0,Often,Average,9,0,0,0,1,0,0,0,0,0,Fungal infection
+1,0,1,1,1,1,1,0,1,0,0,1,Cold,Noon,0,Filtered (RO),Tap,Medium,0,Occasionally,Average,7,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,1,1,1,1,1,1,1,1,Rainy/Flooded,Noon,0,Tap,Boiled,Low,1,Never,Average,1,0,0,0,0,0,0,0,0,1,Chickenpox
+1,1,1,0,1,0,0,1,0,1,1,1,Hot/Dry,Morning,0,Tap,Tap,Low,0,Often,Average,1,0,0,0,0,0,0,0,0,1,Dermatitis
+1,0,1,0,0,1,0,0,1,0,1,1,Humid,Morning,1,Filtered (RO),Tap,Medium,1,Occasionally,Average,5,0,0,1,0,0,0,0,1,0,Eczema
+1,1,1,1,0,1,0,0,1,1,1,1,Rainy/Flooded,Noon,1,Filtered (RO),Boiled,High,0,Occasionally,Poor,8,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,1,1,0,0,1,1,1,1,Cold,Afternoon,0,Boiled,Filtered (RO),Medium,0,Occasionally,Good,9,0,0,0,0,0,0,0,0,0,Fungal infection
+1,0,1,1,0,1,0,0,1,1,0,1,Humid,,0,Filtered (RO),Bottled,Medium,1,Occasionally,Average,12,0,0,0,0,0,0,0,0,0,Allergy
+1,0,1,0,0,1,0,0,0,0,0,1,Humid,,0,Bottled,Tap,Medium,1,Occasionally,Poor,6,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,1,1,1,0,1,0,1,0,1,Hot/Dry,Afternoon,0,Tap,Filtered (RO),High,0,Often,Poor,12,0,0,0,0,0,0,0,0,0,Allergy
+1,1,0,1,1,1,1,1,0,1,0,1,Cold,Afternoon,1,Tap,Filtered (RO),High,0,Never,Good,13,0,0,1,0,0,0,0,0,0,Drug Reaction
+1,1,1,1,0,1,1,0,0,0,0,1,Hot/Dry,Afternoon,0,Tap,Bottled,Medium,1,Occasionally,Good,10,0,0,0,0,0,0,0,0,0,Impetigo
+1,1,0,0,1,0,0,0,1,0,0,1,Cold,Noon,0,Tap,Tap,Medium,0,Often,Average,12,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,1,0,1,0,1,1,0,0,1,Humid,,1,Filtered (RO),Boiled,Medium,1,Never,Good,8,0,0,0,0,0,0,0,0,0,Chickenpox
+1,0,1,0,1,1,0,1,1,0,1,1,Humid,Afternoon,0,Filtered (RO),Filtered (RO),Medium,0,Never,Poor,6,0,0,0,0,0,0,0,0,0,Psoriasis
+1,1,0,0,0,1,1,1,0,1,1,1,Humid,Noon,0,Tap,Tap,Low,0,Often,Average,11,0,0,0,0,0,0,0,0,0,Dermatitis
+1,1,0,0,0,1,1,0,0,1,0,1,Hot/Dry,Morning,1,Bottled,Tap,Medium,1,Occasionally,Average,6,0,0,1,0,0,0,0,0,0,Fungal infection
+1,1,0,0,0,1,0,1,0,0,1,1,Hot/Dry,Noon,0,Boiled,Tap,High,1,Occasionally,Good,4,0,0,0,0,0,0,0,0,1,Allergy
+1,1,0,1,0,1,1,0,0,1,1,1,Hot/Dry,Noon,0,Tap,Filtered (RO),High,0,Never,Average,11,0,0,0,0,0,0,0,0,0,Dermatitis
+1,0,1,1,1,1,0,0,1,1,0,0,Hot/Dry,,0,Tap,Boiled,High,1,Occasionally,Average,5,0,0,0,0,0,0,0,0,0,Allergy
+1,1,1,1,1,1,0,1,1,1,0,1,Rainy/Flooded,Noon,0,Tap,Filtered (RO),Low,0,Never,Poor,14,0,0,0,1,0,0,0,1,0,Eczema
+0,1,1,0,0,0,0,1,1,1,0,0,Hot/Dry,Noon,0,Tap,Filtered (RO),Medium,0,Occasionally,Good,2,0,1,0,0,0,0,0,0,1,Melanoma
